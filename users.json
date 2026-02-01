@@ -244,5 +244,11 @@
     "name": "Sidiq Aliyah",
     "password": "YWpva2UyMDA4",
     "department": "Water"
+  },
+  {
+    "id": "1769953342848",
+    "name": "Who is who",
+    "password": "MTIzNDU=",
+    "department": "Biomedical"
   }
 ]
