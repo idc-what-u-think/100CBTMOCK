@@ -352,5 +352,11 @@
     "name": "Mub",
     "password": "TWliYXJhazIwMDc=",
     "department": "Food"
+  },
+  {
+    "id": "1769958264975",
+    "name": "Olamide",
+    "password": "bWFyaWFtbW9t",
+    "department": "Mechanical"
   }
 ]
