@@ -676,5 +676,11 @@
     "name": "Femibello Mark",
     "password": "ZmVtaWJlbGxv",
     "department": "Water"
+  },
+  {
+    "id": "1769988063088",
+    "name": "Excel",
+    "password": "MDAwMDAwMDA=",
+    "department": "Chemical"
   }
 ]
