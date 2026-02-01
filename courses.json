@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "CHM101",
+    "name": "General Chemistry 1",
+    "status": "open",
+    "duration": 25,
+    "questions_per_test": 50
+  }
+]
