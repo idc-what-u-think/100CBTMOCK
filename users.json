@@ -112,5 +112,11 @@
     "name": "Muslim",
     "password": "NjU3NDEy",
     "department": "Civil"
+  },
+  {
+    "id": "1769950319573",
+    "name": "Abdulkadir Yusuf",
+    "password": "QWJkdWxrYWRpci4x",
+    "department": "Computer"
   }
 ]
