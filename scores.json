@@ -4054,5 +4054,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769983404012",
+    "user_name": "Abdul",
+    "department": "Mechanical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 43,
+    "total": 50,
+    "timestamp": "2026-02-01T22:23:12.095Z",
+    "results": [
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "B) Covalent bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": false
+      },
+      {
+        "question": "In Group 5A(15), which is the stronger acid?",
+        "userAnswer": "D) Cannot be determined",
+        "correctAnswer": "B) H3PO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "A) HF > HCl > HBr > HI",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "B) Gas",
+        "correctAnswer": "B) Gas",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing electronegativity of central atom",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "HCO3⁻ is an example of:",
+        "userAnswer": "C) An amphiprotic species",
+        "correctAnswer": "C) An amphiprotic species",
+        "isCorrect": true
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "B) Conjugate acid",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "The melting point of sodium chloride is approximately:",
+        "userAnswer": "C) 800°C",
+        "correctAnswer": "C) 800°C",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": true
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "A) +1",
+        "correctAnswer": "A) +1",
+        "isCorrect": true
+      },
+      {
+        "question": "CaOCl2 is an example of:",
+        "userAnswer": "C) A mixed salt",
+        "correctAnswer": "C) A mixed salt",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "C) Solid",
+        "correctAnswer": "C) Solid",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "D) 83.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "A) The calculated maximum product",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "B) Ka and Kb values",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "To be acidic in the Lewis sense, a molecule must be:",
+        "userAnswer": "B) Electron deficient",
+        "correctAnswer": "B) Electron deficient",
+        "isCorrect": true
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+        "userAnswer": "B) Electronegativity",
+        "correctAnswer": "B) Electronegativity",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "In a balanced chemical equation, the number of atoms of each type on the reactant side:",
+        "userAnswer": "C) Equals the number on the product side",
+        "correctAnswer": "C) Equals the number on the product side",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "C) Reaction stoichiometry",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Arrhenius concept, neutralization must occur in:",
+        "userAnswer": "B) Aqueous solution",
+        "correctAnswer": "B) Aqueous solution",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "B) 3:5",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      }
+    ]
   }
 ]
