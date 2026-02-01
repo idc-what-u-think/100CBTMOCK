@@ -250,5 +250,11 @@
     "name": "Who is who",
     "password": "MTIzNDU=",
     "department": "Biomedical"
+  },
+  {
+    "id": "1769953429910",
+    "name": "Berry",
+    "password": "QmVycnk=",
+    "department": "Agric"
   }
 ]
