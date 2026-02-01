@@ -178,5 +178,11 @@
     "name": "Bukola",
     "password": "YnVrb2xhIGF0IDE1",
     "department": "Chemical"
+  },
+  {
+    "id": "1769951119704",
+    "name": "Raji",
+    "password": "cmFqaQ==",
+    "department": "Civil"
   }
 ]
