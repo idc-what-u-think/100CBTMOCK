@@ -12790,5 +12790,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769954853188",
+    "user_name": "Ohiani",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 21,
+    "total": 50,
+    "timestamp": "2026-02-01T14:27:51.373Z",
+    "results": [
+      {
+        "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+        "userAnswer": "D) Ionization energy",
+        "correctAnswer": "B) Electronegativity",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "D) The reactant with the smallest mass",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is an acidic salt?",
+        "userAnswer": "D) KOH",
+        "correctAnswer": "C) NaHSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "C) Bromine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "C) Ionization energy",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": false
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "B) There is more than required by stoichiometry",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "A) Avogadro's number",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "D) Accepts a proton",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": false
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "A) Conjugate base",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": false
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "C) A neutral species",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+        "userAnswer": "A) Only molecules",
+        "correctAnswer": "C) Ions as well as molecules",
+        "isCorrect": false
+      },
+      {
+        "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+        "userAnswer": "A) 125%",
+        "correctAnswer": "B) 80%",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "A) H2SO3",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": false
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "D) +7",
+        "correctAnswer": "D) +7",
+        "isCorrect": true
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "D) States of matter",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": false
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "B) OH⁻ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "C) A Lewis acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "A) Always 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": false
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "The law of conservation of mass states that in a chemical reaction:",
+        "userAnswer": "C) Mass is neither created nor destroyed",
+        "correctAnswer": "C) Mass is neither created nor destroyed",
+        "isCorrect": true
+      },
+      {
+        "question": "The conjugate base of acetic acid (CH3COOH) is:",
+        "userAnswer": "A) CH3COO⁻",
+        "correctAnswer": "A) CH3COO⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Anions with ionizable hydrogens are:",
+        "userAnswer": "B) Always basic",
+        "correctAnswer": "C) Amphiprotic",
+        "isCorrect": false
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "D) A precipitate",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "B) The law of conservation of mass",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "B) Gas",
+        "correctAnswer": "B) Gas",
+        "isCorrect": true
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "B) Atomic weights",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "C) H2",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+        "userAnswer": "B) KOH",
+        "correctAnswer": "C) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "D) Gas phase only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction HCl + NH3 → NH4Cl in benzene involves:",
+        "userAnswer": "A) Ionization of HCl",
+        "correctAnswer": "B) No ionization of reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "C) HBr",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "B) High melting points",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "C) The amount of product actually obtained in the lab",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": true
+      }
+    ]
   }
 ]
