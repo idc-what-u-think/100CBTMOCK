@@ -27454,5 +27454,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769966400388",
+    "user_name": "Walex",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 32,
+    "total": 50,
+    "timestamp": "2026-02-01T17:38:06.054Z",
+    "results": [
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "B) NH4Cl",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "A) A verbal description of a reaction",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "A) It is too general",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing electronegativity of central atom",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "A) An acidic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "B) Formula stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "B) Ions",
+        "correctAnswer": "B) Ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction HCl + NH3 → NH4Cl in benzene involves:",
+        "userAnswer": "B) No ionization of reactants",
+        "correctAnswer": "B) No ionization of reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "B) Stronger the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is an example of:",
+        "userAnswer": "C) A salt",
+        "correctAnswer": "C) A salt",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is a salt of:",
+        "userAnswer": "B) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "The products of complete combustion of a hydrocarbon are:",
+        "userAnswer": "A) CO and H2O",
+        "correctAnswer": "B) CO2 and H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "A) A proton acceptor",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "A) BF3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "D) An electron pair donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": false
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "A) Fluorine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept has not discussed the behavior of:",
+        "userAnswer": "C) Protonic acids like HCl",
+        "correctAnswer": "C) Protonic acids like HCl",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "C) A neutral salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "B) Balance the equation",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": true
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "C) Ionization energy",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "B) Bronsted-Lowry theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "C) SO3",
+        "correctAnswer": "C) SO3",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "A) H3O⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is an acid?",
+        "userAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "correctAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "B) H3O⁺",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "D) Covalent bonding exclusively",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "A) Electron transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "What is an acidic salt?",
+        "userAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "correctAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      }
+    ]
   }
 ]
