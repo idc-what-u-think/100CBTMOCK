@@ -592,5 +592,11 @@
     "name": "Opemiposi",
     "password": "cmFzYmVycnk0NQ==",
     "department": "Computer"
+  },
+  {
+    "id": "1769976891740",
+    "name": "Sodiq",
+    "password": "T2xhbWlsZWthbjAyODE=",
+    "department": "Agric"
   }
 ]
