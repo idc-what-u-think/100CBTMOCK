@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engineering Mock Test</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #555;
+        }
+        .toggle-link {
+            text-align: center;
+            margin-top: 15px;
+            cursor: pointer;
+            color: #333;
+            text-decoration: underline;
+        }
+        .hidden {
+            display: none;
+        }
+        .message {
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .error {
+            background: #ffebee;
+            color: #c62828;
+        }
+        .success {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="loginForm">
+            <h1>Engineering Mock Test</h1>
+            <h2>Login</h2>
+            <div id="loginMessage"></div>
+            <form onsubmit="login(event)">
+                <div class="form-group">
+                    <label>Name</label>
+                    <input type="text" id="loginName" required>
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" id="loginPassword" required>
+                </div>
+                <button type="submit">Login</button>
+            </form>
+            <div class="toggle-link" onclick="toggleForms()">Don't have an account? Register</div>
+        </div>
+
+        <div id="registerForm" class="hidden">
+            <h1>Engineering Mock Test</h1>
+            <h2>Register</h2>
+            <div id="registerMessage"></div>
+            <form onsubmit="register(event)">
+                <div class="form-group">
+                    <label>Name</label>
+                    <input type="text" id="regName" required>
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" id="regPassword" required>
+                </div>
+                <div class="form-group">
+                    <label>Department</label>
+                    <select id="regDepartment" required>
+                        <option value="">Select Department</option>
+                        <option value="Computer">Computer Engineering</option>
+                        <option value="Mechanical">Mechanical Engineering</option>
+                        <option value="Chemical">Chemical Engineering</option>
+                        <option value="Food">Food Engineering</option>
+                        <option value="Material">Material and Metallurgical Engineering</option>
+                        <option value="Electrical">Electrical Engineering</option>
+                        <option value="Civil">Civil Engineering</option>
+                        <option value="Water">Water Resources Engineering</option>
+                        <option value="Biomedical">Biomedical Engineering</option>
+                        <option value="Agric">Agricultural and Biosystem Engineering</option>
+                    </select>
+                </div>
+                <button type="submit">Register</button>
+            </form>
+            <div class="toggle-link" onclick="toggleForms()">Already have an account? Login</div>
+        </div>
+    </div>
+
+    <script>
+        async function fetchGitHub(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) throw new Error('Failed to fetch data');
+            const data = await response.json();
+            return data?.content || null;
+        }
+
+        async function updateGitHub(path, content, message, sha = null) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'update', path, content, message, sha })
+            });
+            
+            if (!response.ok) throw new Error('Failed to update data');
+            return await response.json();
+        }
+
+        // Get SHA for a file
+        async function getFileSha(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) return null;
+            const data = await response.json();
+            return data?.sha || null;
+        }
+
+        function toggleForms() {
+            document.getElementById('loginForm').classList.toggle('hidden');
+            document.getElementById('registerForm').classList.toggle('hidden');
+        }
+
+        function showMessage(elementId, message, type) {
+            const el = document.getElementById(elementId);
+            el.innerHTML = `<div class="message ${type}">${message}</div>`;
+            setTimeout(() => el.innerHTML = '', 3000);
+        }
+
+        async function register(event) {
+            event.preventDefault();
+            const name = document.getElementById('regName').value.trim();
+            const password = document.getElementById('regPassword').value;
+            const department = document.getElementById('regDepartment').value;
+
+            try {
+                const fetchResult = await fetchGitHub('users.json');
+                let users = fetchResult || [];
+                
+                if (users.find(u => u.name === name)) {
+                    showMessage('registerMessage', 'User already exists!', 'error');
+                    return;
+                }
+
+                const newUser = {
+                    id: Date.now().toString(),
+                    name: name,
+                    password: btoa(password),
+                    department: department
+                };
+
+                users.push(newUser);
+                
+                const sha = await getFileSha('users.json');
+
+                await updateGitHub('users.json', users, 'Add new user', sha);
+                
+                showMessage('registerMessage', 'Registration successful! Please login.', 'success');
+                setTimeout(() => toggleForms(), 2000);
+            } catch (error) {
+                showMessage('registerMessage', 'Registration failed: ' + error.message, 'error');
+            }
+        }
+
+        async function login(event) {
+            event.preventDefault();
+            const name = document.getElementById('loginName').value.trim();
+            const password = document.getElementById('loginPassword').value;
+
+            try {
+                const users = await fetchGitHub('users.json') || [];
+                const user = users.find(u => u.name === name && u.password === btoa(password));
+
+                if (!user) {
+                    showMessage('loginMessage', 'Invalid credentials!', 'error');
+                    return;
+                }
+
+                localStorage.setItem('currentUser', JSON.stringify(user));
+                window.location.href = 'student.html';
+            } catch (error) {
+                showMessage('loginMessage', 'Login failed: ' + error.message, 'error');
+            }
+        }
+    </script>
+</body>
+</html>

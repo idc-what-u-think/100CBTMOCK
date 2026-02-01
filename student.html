@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            color: #333;
+        }
+        .header {
+            background: #333;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header button {
+            background: white;
+            color: #333;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+        .welcome {
+            margin-bottom: 30px;
+        }
+        .course-card {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+        }
+        .course-card h3 {
+            margin-bottom: 10px;
+        }
+        .course-status {
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .status-open {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        .status-closed {
+            background: #ffebee;
+            color: #c62828;
+        }
+        .btn {
+            padding: 10px 20px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        .btn:hover {
+            background: #555;
+        }
+        .btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .scores {
+            margin-top: 40px;
+        }
+        .score-item {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>Student Dashboard</h2>
+        <button onclick="logout()">Logout</button>
+    </div>
+
+    <div class="container">
+        <div class="welcome" id="welcomeMsg"></div>
+
+        <h2>Available Courses</h2>
+        <div id="coursesList"></div>
+
+        <div class="scores">
+            <h2>My Test History</h2>
+            <div id="scoresList"></div>
+        </div>
+    </div>
+
+    <script>
+        // Using Vercel API endpoint
+
+        const currentUser = JSON.parse(localStorage.getItem('currentUser') || '{}');
+        if (!currentUser.id) {
+            window.location.href = 'index.html';
+        }
+
+        document.getElementById('welcomeMsg').innerHTML = `<h3>Welcome, ${currentUser.name}!</h3><p>Department: ${currentUser.department} Engineering</p>`;
+
+        async function fetchGitHub(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) throw new Error('Failed to fetch data');
+            const data = await response.json();
+            return data?.content || null;
+        }
+
+        async function loadCourses() {
+            try {
+                const courses = await fetchGitHub('courses.json') || [];
+                const coursesList = document.getElementById('coursesList');
+                
+                if (courses.length === 0) {
+                    coursesList.innerHTML = '<p>No courses available yet.</p>';
+                    return;
+                }
+
+                coursesList.innerHTML = courses.map(course => `
+                    <div class="course-card">
+                        <h3>${course.name}</h3>
+                        <span class="course-status status-${course.status}">${course.status === 'open' ? 'Open' : 'Closed'}</span>
+                        <p>Duration: ${course.duration} minutes | Questions: ${course.questions_per_test}</p>
+                        <button class="btn" onclick="startTest('${course.id}')" ${course.status === 'closed' ? 'disabled' : ''}>
+                            ${course.status === 'open' ? 'Start Test' : 'Not Available'}
+                        </button>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading courses:', error);
+            }
+        }
+
+        async function loadScores() {
+            try {
+                const scores = await fetchGitHub('scores.json') || [];
+                const userScores = scores.filter(s => s.user_id === currentUser.id);
+                const scoresList = document.getElementById('scoresList');
+
+                if (userScores.length === 0) {
+                    scoresList.innerHTML = '<p>No test attempts yet.</p>';
+                    return;
+                }
+
+                scoresList.innerHTML = userScores.map(score => `
+                    <div class="score-item">
+                        <strong>${score.course_name}</strong> - 
+                        Score: ${score.score}/${score.total} 
+                        (${((score.score/score.total)*100).toFixed(1)}%) - 
+                        ${new Date(score.timestamp).toLocaleString()}
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading scores:', error);
+            }
+        }
+
+        function startTest(courseId) {
+            localStorage.setItem('currentCourse', courseId);
+            window.location.href = 'test.html';
+        }
+
+        function logout() {
+            localStorage.removeItem('currentUser');
+            window.location.href = 'index.html';
+        }
+
+        loadCourses();
+        loadScores();
+    </script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 400px;
+            margin: 100px auto;
+            padding: 30px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        h1 {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #555;
+        }
+        .message {
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .error {
+            background: #ffebee;
+            color: #c62828;
+        }
+        .back-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .back-link a {
+            color: #333;
+            text-decoration: none;
+        }
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Admin Login</h1>
+        <div id="message"></div>
+        <form onsubmit="adminLogin(event)">
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" id="username" required autofocus>
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" id="password" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+        <div class="back-link">
+            <a href="index.html">← Back to Student Login</a>
+        </div>
+    </div>
+
+    <script>
+        async function fetchGitHub(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) throw new Error('Failed to fetch data');
+            const data = await response.json();
+            return data?.content || null;
+        }
+
+        function showMessage(message, type) {
+            const el = document.getElementById('message');
+            el.innerHTML = `<div class="message ${type}">${message}</div>`;
+            setTimeout(() => el.innerHTML = '', 3000);
+        }
+
+        async function adminLogin(event) {
+            event.preventDefault();
+            const username = document.getElementById('username').value.trim();
+            const password = document.getElementById('password').value;
+
+            try {
+                const config = await fetchGitHub('config.json');
+                
+                if (!config) {
+                    showMessage('Configuration not found!', 'error');
+                    return;
+                }
+
+                if (username === config.admin_username && btoa(password) === config.admin_password) {
+                    localStorage.setItem('isAdmin', 'true');
+                    localStorage.setItem('adminUser', username);
+                    window.location.href = 'admin.html';
+                } else {
+                    showMessage('Invalid credentials!', 'error');
+                }
+            } catch (error) {
+                showMessage('Login failed: ' + error.message, 'error');
+            }
+        }
+    </script>
+</body>
+</html>

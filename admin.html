@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            color: #333;
+        }
+        .header {
+            background: #333;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header button {
+            background: white;
+            color: #333;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+        }
+        .tab {
+            padding: 10px 20px;
+            background: white;
+            border: none;
+            cursor: pointer;
+            border-bottom: 3px solid transparent;
+        }
+        .tab.active {
+            border-bottom-color: #333;
+            font-weight: bold;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .btn {
+            padding: 10px 20px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px 5px 5px 0;
+        }
+        .btn:hover {
+            background: #555;
+        }
+        .btn-delete {
+            background: #f44336;
+        }
+        .btn-delete:hover {
+            background: #d32f2f;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background: #f5f5f5;
+            font-weight: bold;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        textarea {
+            min-height: 100px;
+            font-family: Arial, sans-serif;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+        }
+        .modal-content {
+            background: white;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 30px;
+            border-radius: 8px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .close {
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .question-card {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 4px;
+            background: #fafafa;
+        }
+        .question-image {
+            max-width: 100%;
+            max-height: 400px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin: 15px 0;
+            display: block;
+        }
+        .image-warning {
+            display: none;
+            padding: 10px;
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+        .correct-answer {
+            background: #d4edda;
+            font-weight: bold;
+            padding: 5px;
+            border-radius: 3px;
+        }
+        .option-item {
+            padding: 5px;
+            margin: 3px 0;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            table {
+                font-size: 12px;
+            }
+            th, td {
+                padding: 8px;
+            }
+            .question-image {
+                max-height: 250px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>Admin Dashboard</h2>
+        <button onclick="logout()">Logout</button>
+    </div>
+
+    <div class="container">
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('courses')">Courses</button>
+            <button class="tab" onclick="switchTab('questions')">Questions</button>
+            <button class="tab" onclick="switchTab('scores')">Scores</button>
+            <button class="tab" onclick="switchTab('users')">Users</button>
+        </div>
+
+        <!-- Courses Tab -->
+        <div id="courses" class="tab-content active">
+            <h2>Manage Courses</h2>
+            <button class="btn" onclick="showAddCourseModal()">Add New Course</button>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Course Name</th>
+                        <th>Status</th>
+                        <th>Duration (min)</th>
+                        <th>Questions/Test</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="coursesList"></tbody>
+            </table>
+        </div>
+
+        <!-- Questions Tab -->
+        <div id="questions" class="tab-content">
+            <h2>Manage Questions</h2>
+            <div class="form-group">
+                <label>Select Course</label>
+                <select id="questionCourseSelect" onchange="loadQuestions()">
+                    <option value="">Select a course</option>
+                </select>
+            </div>
+            <button class="btn" onclick="showAddQuestionModal()">Add New Question</button>
+            <div id="questionsList"></div>
+        </div>
+
+        <!-- Scores Tab -->
+        <div id="scores" class="tab-content">
+            <h2>View Scores</h2>
+            <div class="form-group">
+                <label>Filter by Course</label>
+                <select id="scoresCourseFilter" onchange="loadScores()">
+                    <option value="">All Courses</option>
+                </select>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Student</th>
+                        <th>Department</th>
+                        <th>Course</th>
+                        <th>Score</th>
+                        <th>Date</th>
+                    </tr>
+                </thead>
+                <tbody id="scoresList"></tbody>
+            </table>
+        </div>
+
+        <!-- Users Tab -->
+        <div id="users" class="tab-content">
+            <h2>Registered Users</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Department</th>
+                        <th>Registered</th>
+                    </tr>
+                </thead>
+                <tbody id="usersList"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Add Course Modal -->
+    <div id="courseModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('courseModal')">&times;</span>
+            <h2>Add New Course</h2>
+            <form onsubmit="saveCourse(event)">
+                <div class="form-group">
+                    <label>Course ID</label>
+                    <input type="text" id="courseId" required placeholder="e.g., CSC101">
+                </div>
+                <div class="form-group">
+                    <label>Course Name</label>
+                    <input type="text" id="courseName" required placeholder="e.g., Introduction to Computing">
+                </div>
+                <div class="form-group">
+                    <label>Status</label>
+                    <select id="courseStatus" required>
+                        <option value="open">Open</option>
+                        <option value="closed">Closed</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Duration (minutes)</label>
+                    <input type="number" id="courseDuration" required min="1" value="60">
+                </div>
+                <div class="form-group">
+                    <label>Questions per Test</label>
+                    <input type="number" id="courseQuestions" required min="1" value="40">
+                </div>
+                <button type="submit" class="btn">Save Course</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Add Question Modal -->
+    <div id="questionModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('questionModal')">&times;</span>
+            <h2>Add New Question</h2>
+            <form onsubmit="saveQuestion(event)">
+                <div class="form-group">
+                    <label>Course</label>
+                    <select id="questionCourse" required></select>
+                </div>
+                <div class="form-group">
+                    <label>Question</label>
+                    <textarea id="questionText" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Option A</label>
+                    <input type="text" id="optionA" required>
+                </div>
+                <div class="form-group">
+                    <label>Option B</label>
+                    <input type="text" id="optionB" required>
+                </div>
+                <div class="form-group">
+                    <label>Option C</label>
+                    <input type="text" id="optionC" required>
+                </div>
+                <div class="form-group">
+                    <label>Option D</label>
+                    <input type="text" id="optionD" required>
+                </div>
+                <div class="form-group">
+                    <label>Correct Answer</label>
+                    <select id="correctAnswer" required>
+                        <option value="">Select correct answer</option>
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                        <option value="D">D</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Image Path (optional)</label>
+                    <input type="text" id="questionImage" placeholder="e.g., images/GET205/GET205_Q098.png">
+                    <small style="color: #666;">Leave empty if no image is needed</small>
+                </div>
+                <button type="submit" class="btn">Save Question</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Check admin authentication
+        if (!localStorage.getItem('isAdmin')) {
+            window.location.href = 'admin-login.html';
+        }
+
+        async function fetchGitHub(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) throw new Error('Failed to fetch data');
+            const data = await response.json();
+            return data?.content || null;
+        }
+
+        async function updateGitHub(path, content, message) {
+            const sha = await getFileSha(path);
+            
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'update', path, content, message, sha })
+            });
+            
+            if (!response.ok) throw new Error('Failed to update data');
+            return await response.json();
+        }
+
+        async function getFileSha(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) return null;
+            const data = await response.json();
+            return data?.sha || null;
+        }
+
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            event.target.classList.add('active');
+            document.getElementById(tabName).classList.add('active');
+        }
+
+        function showAddCourseModal() {
+            document.getElementById('courseModal').style.display = 'block';
+        }
+
+        function showAddQuestionModal() {
+            const select = document.getElementById('questionCourseSelect');
+            if (!select.value) {
+                alert('Please select a course first');
+                return;
+            }
+            // Pre-fill the course in the modal
+            document.getElementById('questionCourse').value = select.value;
+            document.getElementById('questionModal').style.display = 'block';
+        }
+
+        function closeModal(modalId) {
+            document.getElementById(modalId).style.display = 'none';
+        }
+
+        async function loadCourses() {
+            try {
+                const courses = await fetchGitHub('courses.json') || [];
+                const tbody = document.getElementById('coursesList');
+                
+                tbody.innerHTML = courses.map(course => `
+                    <tr>
+                        <td>${course.name}</td>
+                        <td>${course.status}</td>
+                        <td>${course.duration}</td>
+                        <td>${course.questions_per_test}</td>
+                        <td>
+                            <button class="btn" onclick="toggleCourseStatus('${course.id}', '${course.status}')">
+                                ${course.status === 'open' ? 'Close' : 'Open'}
+                            </button>
+                            <button class="btn btn-delete" onclick="deleteCourse('${course.id}')">Delete</button>
+                        </td>
+                    </tr>
+                `).join('');
+
+                // Populate dropdowns
+                const options = courses.map(c => `<option value="${c.id}">${c.name}</option>`).join('');
+                document.getElementById('questionCourseSelect').innerHTML = '<option value="">Select a course</option>' + options;
+                document.getElementById('questionCourse').innerHTML = '<option value="">Select a course</option>' + options;
+                document.getElementById('scoresCourseFilter').innerHTML = '<option value="">All Courses</option>' + options;
+            } catch (error) {
+                console.error('Error loading courses:', error);
+            }
+        }
+
+        async function saveCourse(event) {
+            event.preventDefault();
+            try {
+                const courses = await fetchGitHub('courses.json') || [];
+                const newCourse = {
+                    id: document.getElementById('courseId').value.trim(),
+                    name: document.getElementById('courseName').value.trim(),
+                    status: document.getElementById('courseStatus').value,
+                    duration: parseInt(document.getElementById('courseDuration').value),
+                    questions_per_test: parseInt(document.getElementById('courseQuestions').value)
+                };
+
+                if (courses.find(c => c.id === newCourse.id)) {
+                    alert('Course ID already exists!');
+                    return;
+                }
+
+                courses.push(newCourse);
+                await updateGitHub('courses.json', courses, 'Add new course');
+                
+                closeModal('courseModal');
+                event.target.reset();
+                loadCourses();
+                alert('Course added successfully!');
+            } catch (error) {
+                alert('Error adding course: ' + error.message);
+            }
+        }
+
+        async function toggleCourseStatus(courseId, currentStatus) {
+            try {
+                const courses = await fetchGitHub('courses.json');
+                const course = courses.find(c => c.id === courseId);
+                course.status = currentStatus === 'open' ? 'closed' : 'open';
+                
+                await updateGitHub('courses.json', courses, `Toggle course ${courseId} status`);
+                loadCourses();
+            } catch (error) {
+                alert('Error updating course: ' + error.message);
+            }
+        }
+
+        async function deleteCourse(courseId) {
+            if (!confirm('Delete this course? This will also delete all questions for this course.')) return;
+            
+            try {
+                let courses = await fetchGitHub('courses.json');
+                courses = courses.filter(c => c.id !== courseId);
+                await updateGitHub('courses.json', courses, `Delete course ${courseId}`);
+                
+                let questions = await fetchGitHub('questions.json') || [];
+                questions = questions.filter(q => q.course_id !== courseId);
+                await updateGitHub('questions.json', questions, `Delete questions for course ${courseId}`);
+                
+                loadCourses();
+                loadQuestions();
+                alert('Course deleted successfully!');
+            } catch (error) {
+                alert('Error deleting course: ' + error.message);
+            }
+        }
+
+        async function loadQuestions() {
+            const courseId = document.getElementById('questionCourseSelect').value;
+            if (!courseId) {
+                document.getElementById('questionsList').innerHTML = '';
+                return;
+            }
+
+            try {
+                const questions = await fetchGitHub('questions.json') || [];
+                const courseQuestions = questions.filter(q => q.course_id === courseId);
+                
+                document.getElementById('questionsList').innerHTML = `
+                    <h3>Questions (${courseQuestions.length})</h3>
+                    ${courseQuestions.map((q, idx) => `
+                        <div class="question-card">
+                            <div style="margin-bottom: 10px;">
+                                <strong>Q${idx + 1} (ID: ${q.id}):</strong> ${q.question}
+                            </div>
+                            
+                            ${q.image ? `
+                                <div style="margin: 15px 0;">
+                                    <strong>📎 Image:</strong>
+                                    <img src="${q.image}" 
+                                         alt="Question diagram" 
+                                         class="question-image"
+                                         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                                    <div class="image-warning">
+                                        ⚠️ Image not found: <code>${q.image}</code>
+                                    </div>
+                                </div>
+                            ` : '<div style="color: #999; font-style: italic; margin: 10px 0;">No image for this question</div>'}
+                            
+                            <div style="margin: 15px 0;">
+                                <strong>Options:</strong>
+                                ${q.options.map(opt => `
+                                    <div class="option-item ${opt === q.correct_answer ? 'correct-answer' : ''}">
+                                        ${opt} ${opt === q.correct_answer ? '✓ (Correct Answer)' : ''}
+                                    </div>
+                                `).join('')}
+                            </div>
+                            
+                            <button class="btn btn-delete" onclick="deleteQuestion('${q.id}')">Delete Question</button>
+                        </div>
+                    `).join('')}
+                `;
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('questionsList').innerHTML = '<p style="color: red;">Error loading questions. Please try again.</p>';
+            }
+        }
+
+        async function saveQuestion(event) {
+            event.preventDefault();
+            try {
+                const questions = await fetchGitHub('questions.json') || [];
+                const courseId = document.getElementById('questionCourse').value;
+                const correctLetter = document.getElementById('correctAnswer').value;
+                const imagePath = document.getElementById('questionImage').value.trim();
+                
+                const options = [
+                    'A) ' + document.getElementById('optionA').value.trim(),
+                    'B) ' + document.getElementById('optionB').value.trim(),
+                    'C) ' + document.getElementById('optionC').value.trim(),
+                    'D) ' + document.getElementById('optionD').value.trim()
+                ];
+
+                const newQuestion = {
+                    id: 'Q' + String(questions.length + 1).padStart(3, '0'),
+                    course_id: courseId,
+                    question: document.getElementById('questionText').value.trim(),
+                    options: options,
+                    correct_answer: options.find(o => o.startsWith(correctLetter))
+                };
+
+                // Add image path if provided
+                if (imagePath) {
+                    newQuestion.image = imagePath;
+                }
+
+                questions.push(newQuestion);
+                await updateGitHub('questions.json', questions, 'Add new question');
+                
+                closeModal('questionModal');
+                event.target.reset();
+                loadQuestions();
+                alert('Question added successfully!');
+            } catch (error) {
+                alert('Error adding question: ' + error.message);
+            }
+        }
+
+        async function deleteQuestion(questionId) {
+            if (!confirm('Delete this question?')) return;
+            
+            try {
+                let questions = await fetchGitHub('questions.json');
+                questions = questions.filter(q => q.id !== questionId);
+                await updateGitHub('questions.json', questions, `Delete question ${questionId}`);
+                
+                loadQuestions();
+                alert('Question deleted successfully!');
+            } catch (error) {
+                alert('Error deleting question: ' + error.message);
+            }
+        }
+
+        async function loadScores() {
+            try {
+                const scores = await fetchGitHub('scores.json') || [];
+                const filter = document.getElementById('scoresCourseFilter').value;
+                const filtered = filter ? scores.filter(s => s.course_id === filter) : scores;
+                
+                const tbody = document.getElementById('scoresList');
+                tbody.innerHTML = filtered.map(score => `
+                    <tr>
+                        <td>${score.user_name}</td>
+                        <td>${score.department}</td>
+                        <td>${score.course_name}</td>
+                        <td>${score.score}/${score.total} (${((score.score/score.total)*100).toFixed(1)}%)</td>
+                        <td>${new Date(score.timestamp).toLocaleString()}</td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading scores:', error);
+            }
+        }
+
+        async function loadUsers() {
+            try {
+                const users = await fetchGitHub('users.json') || [];
+                const tbody = document.getElementById('usersList');
+                
+                tbody.innerHTML = users.map(user => `
+                    <tr>
+                        <td>${user.name}</td>
+                        <td>${user.department} Engineering</td>
+                        <td>${user.id ? new Date(parseInt(user.id)).toLocaleString() : 'N/A'}</td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error('Error loading users:', error);
+            }
+        }
+
+        function logout() {
+            localStorage.removeItem('isAdmin');
+            localStorage.removeItem('adminUser');
+            window.location.href = 'admin-login.html';
+        }
+
+        // Load initial data
+        loadCourses();
+        loadScores();
+        loadUsers();
+    </script>
+</body>
+</html>

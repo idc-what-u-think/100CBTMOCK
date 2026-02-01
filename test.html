@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Test</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: white;
+            color: #333;
+        }
+        .header {
+            background: #333;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+        }
+        .timer {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .question-card {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .question-text {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .question-image {
+            max-width: 100%;
+            height: auto;
+            margin: 15px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            display: block;
+        }
+        .option {
+            padding: 12px;
+            margin: 8px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .option:hover {
+            background: #f5f5f5;
+        }
+        .option.selected {
+            background: #e3f2fd;
+            border-color: #333;
+        }
+        .option input {
+            margin-right: 10px;
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+        .btn {
+            padding: 12px 25px;
+            background: #333;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background: #555;
+        }
+        .progress {
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #f5f5f5;
+            border-radius: 4px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            .navigation {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2 id="courseName"></h2>
+        <div class="timer" id="timer">00:00</div>
+    </div>
+
+    <div class="container">
+        <div class="progress" id="progress"></div>
+        <div id="questionsContainer"></div>
+        <div class="navigation">
+            <button class="btn" onclick="previousQuestion()" id="prevBtn">Previous</button>
+            <button class="btn" onclick="nextQuestion()" id="nextBtn">Next</button>
+            <button class="btn" onclick="submitTest()" id="submitBtn" style="display:none;">Submit Test</button>
+        </div>
+    </div>
+
+    <script>
+        const currentUser = JSON.parse(localStorage.getItem('currentUser') || '{}');
+        const courseId = localStorage.getItem('currentCourse');
+        
+        if (!currentUser.id || !courseId) {
+            window.location.href = 'index.html';
+        }
+
+        let course = null;
+        let questions = [];
+        let currentQuestionIndex = 0;
+        let userAnswers = {};
+        let timerInterval = null;
+        let timeRemaining = 0;
+
+        async function fetchGitHub(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) throw new Error('Failed to fetch data');
+            const data = await response.json();
+            return data?.content || null;
+        }
+
+        async function updateGitHub(path, content, message, sha = null) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'update', path, content, message, sha })
+            });
+            
+            if (!response.ok) throw new Error('Failed to update data');
+            return await response.json();
+        }
+
+        async function getFileSha(path) {
+            const response = await fetch('/api/github', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ action: 'fetch', path })
+            });
+            
+            if (!response.ok) return null;
+            const data = await response.json();
+            return data?.sha || null;
+        }
+
+        async function loadTest() {
+            try {
+                const courses = await fetchGitHub('courses.json');
+                course = courses.find(c => c.id === courseId);
+                
+                if (!course || course.status === 'closed') {
+                    alert('Course not available!');
+                    window.location.href = 'student.html';
+                    return;
+                }
+
+                document.getElementById('courseName').textContent = course.name;
+
+                const allQuestions = await fetchGitHub('questions.json');
+                const courseQuestions = allQuestions.filter(q => q.course_id === courseId);
+                
+                const shuffled = courseQuestions.sort(() => 0.5 - Math.random());
+                questions = shuffled.slice(0, course.questions_per_test);
+                questions = questions.sort(() => 0.5 - Math.random());
+
+                timeRemaining = course.duration * 60;
+                startTimer();
+                showQuestion();
+            } catch (error) {
+                alert('Error loading test: ' + error.message);
+                window.location.href = 'student.html';
+            }
+        }
+
+        function startTimer() {
+            timerInterval = setInterval(() => {
+                timeRemaining--;
+                const minutes = Math.floor(timeRemaining / 60);
+                const seconds = timeRemaining % 60;
+                document.getElementById('timer').textContent = 
+                    `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+
+                if (timeRemaining <= 0) {
+                    clearInterval(timerInterval);
+                    alert('Time is up!');
+                    submitTest();
+                }
+            }, 1000);
+        }
+
+        function showQuestion() {
+            const question = questions[currentQuestionIndex];
+            const answered = Object.keys(userAnswers).length;
+            
+            document.getElementById('progress').innerHTML = 
+                `Question ${currentQuestionIndex + 1} of ${questions.length} | Answered: ${answered}/${questions.length}`;
+
+            // Build image HTML if image exists
+            const imageHTML = question.image ? 
+                `<img src="${question.image}" alt="Question diagram" class="question-image" />` : '';
+
+            document.getElementById('questionsContainer').innerHTML = `
+                <div class="question-card">
+                    <div class="question-text"><strong>Q${currentQuestionIndex + 1}:</strong> ${question.question}</div>
+                    ${imageHTML}
+                    ${question.options.map((opt, idx) => `
+                        <div class="option ${userAnswers[question.id] === opt ? 'selected' : ''}" 
+                             onclick="selectAnswer('${question.id}', '${opt.replace(/'/g, "\\'")}')">
+                            <input type="radio" name="q${currentQuestionIndex}" 
+                                   ${userAnswers[question.id] === opt ? 'checked' : ''}>
+                            ${opt}
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+
+            document.getElementById('prevBtn').style.display = currentQuestionIndex === 0 ? 'none' : 'block';
+            document.getElementById('nextBtn').style.display = currentQuestionIndex === questions.length - 1 ? 'none' : 'block';
+            document.getElementById('submitBtn').style.display = currentQuestionIndex === questions.length - 1 ? 'block' : 'none';
+        }
+
+        function selectAnswer(questionId, answer) {
+            userAnswers[questionId] = answer;
+            showQuestion();
+        }
+
+        function previousQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                showQuestion();
+            }
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < questions.length - 1) {
+                currentQuestionIndex++;
+                showQuestion();
+            }
+        }
+
+        async function submitTest() {
+            if (Object.keys(userAnswers).length < questions.length) {
+                if (!confirm('You have unanswered questions. Submit anyway?')) {
+                    return;
+                }
+            }
+
+            clearInterval(timerInterval);
+
+            let score = 0;
+            const results = questions.map(q => {
+                const correct = userAnswers[q.id] === q.correct_answer;
+                if (correct) score++;
+                return {
+                    question: q.question,
+                    userAnswer: userAnswers[q.id] || 'Not answered',
+                    correctAnswer: q.correct_answer,
+                    isCorrect: correct
+                };
+            });
+
+            const scoreData = {
+                user_id: currentUser.id,
+                user_name: currentUser.name,
+                department: currentUser.department,
+                course_id: course.id,
+                course_name: course.name,
+                score: score,
+                total: questions.length,
+                timestamp: new Date().toISOString(),
+                results: results
+            };
+
+            try {
+                let scores = await fetchGitHub('scores.json') || [];
+                scores.push(scoreData);
+
+                const sha = await getFileSha('scores.json');
+                await updateGitHub('scores.json', scores, 'Add test score', sha);
+                
+                localStorage.setItem('lastResult', JSON.stringify(scoreData));
+                window.location.href = 'result.html';
+            } catch (error) {
+                alert('Error submitting test: ' + error.message);
+            }
+        }
+
+        loadTest();
+    </script>
+</body>
+</html>
