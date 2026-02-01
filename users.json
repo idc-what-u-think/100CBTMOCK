@@ -58,5 +58,11 @@
     "name": "Oni Faith Eniola",
     "password": "MjAwOQ==",
     "department": "Biomedical"
+  },
+  {
+    "id": "1769950126372",
+    "name": "Hendrick",
+    "password": "aGVuZHJpY2s=",
+    "department": "Material"
   }
 ]
