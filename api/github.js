@@ -9,7 +9,7 @@ export default async function handler(req, res) {
     }
 
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-    const GITHUB_REPO = 'FireKid846/CBT-MOCK';
+    const GITHUB_REPO = 'idc-what-u-think/100CBTMOCK';
 
     const { action, path, content, message, sha } = req.body;
 
