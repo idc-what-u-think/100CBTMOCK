@@ -652,5 +652,11 @@
     "name": "Abdullah Adeeko",
     "password": "YWJ1emF5ZA==",
     "department": "Biomedical"
+  },
+  {
+    "id": "1769984186959",
+    "name": "Tom",
+    "password": "ZWJlbg==",
+    "department": "Civil"
   }
 ]
