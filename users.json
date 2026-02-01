@@ -220,5 +220,11 @@
     "name": "Khadijah",
     "password": "aGFyYWZhdA==",
     "department": "Chemical"
+  },
+  {
+    "id": "1769952590316",
+    "name": "Abdulrahman",
+    "password": "QEpvcm1leTIwMDY=",
+    "department": "Civil"
   }
 ]
