@@ -562,5 +562,11 @@
     "name": "Abubakar Habeeb",
     "password": "dGltaWxleWluMDE=",
     "department": "Chemical"
+  },
+  {
+    "id": "1769975634732",
+    "name": "Idriy",
+    "password": "YWR3eWVtaQ==",
+    "department": "Water"
   }
 ]
