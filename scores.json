@@ -622,5 +622,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769978005002",
+    "user_name": "Sultan lamidi",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 22,
+    "total": 50,
+    "timestamp": "2026-02-01T20:46:43.304Z",
+    "results": [
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "A) HNO2",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "C) BF3NH3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "C) Greater than 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "C) HOClO2 > HOClO3 > HClO4 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "C) Find the limiting reactant",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": false
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "B) Formula stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "B) NaCl",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": true
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "B) Covalent bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of ClO2 to H2O is:",
+        "userAnswer": "B) 2:1",
+        "correctAnswer": "B) 2:1",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "B) Basic",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "B) 2 moles",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "A) Redox reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "B) A reduction reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": false
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "D) Odourless",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": true
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the acid?",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "C) +5",
+        "correctAnswer": "A) +1",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and weak base can be:",
+        "userAnswer": "B) Only basic",
+        "correctAnswer": "D) Acidic, basic, or neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "The typical color of pure salt (NaCl) is:",
+        "userAnswer": "C) Colourless, transparent, or white",
+        "correctAnswer": "C) Colourless, transparent, or white",
+        "isCorrect": true
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "B) The theoretical yield",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": false
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "A) A Bronsted-Lowry acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "C) Less than 7",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "B) HCl",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+        "userAnswer": "A) 8 moles",
+        "correctAnswer": "B) 16 moles",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+        "userAnswer": "C) Atomic radius",
+        "correctAnswer": "B) Electronegativity",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "A) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "D) Hydroxide transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "C) The dissolution of salt in acid",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": false
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "D) Volatile",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "A) A species with unshared electron pairs available for sharing",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": true
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "A) The law of definite proportions",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "D) O2",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "C) Na⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "C) An electron pair acceptor",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "A) Reactants",
+        "correctAnswer": "B) Products",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "As the X-H bond becomes longer and weaker down a group:",
+        "userAnswer": "A) Acid strength decreases",
+        "correctAnswer": "B) Acid strength increases",
+        "isCorrect": false
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Potash Alum has the formula:",
+        "userAnswer": "A) KCl",
+        "correctAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      }
+    ]
   }
 ]
