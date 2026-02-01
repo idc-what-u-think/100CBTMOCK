@@ -286,5 +286,11 @@
     "name": "Abdulhamid",
     "password": "SGFtZGluYWgxMjNA",
     "department": "Computer"
+  },
+  {
+    "id": "1769955006469",
+    "name": "John Samuel",
+    "password": "bWFpbmZyYW1l",
+    "department": "Chemical"
   }
 ]
