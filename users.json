@@ -340,5 +340,11 @@
     "name": "Junior",
     "password": "anVuaXg=",
     "department": "Chemical"
+  },
+  {
+    "id": "1769958103976",
+    "name": "Kajola",
+    "password": "YWJhc3M=",
+    "department": "Biomedical"
   }
 ]
