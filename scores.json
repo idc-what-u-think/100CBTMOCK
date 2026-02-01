@@ -6862,5 +6862,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769950866995",
+    "user_name": "Abdullah",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 41,
+    "total": 50,
+    "timestamp": "2026-02-01T13:32:50.134Z",
+    "results": [
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "A) OH⁻",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "B) 3:5",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": true
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "B) Stronger the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and weak base can be:",
+        "userAnswer": "C) Only neutral",
+        "correctAnswer": "D) Acidic, basic, or neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "D) K⁺",
+        "correctAnswer": "C) H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, what does the arrow (→) represent?",
+        "userAnswer": "B) Direction of reaction",
+        "correctAnswer": "B) Direction of reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "A) H3O⁺",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "B) 18.02 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "A) HF",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "C) HI",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "A) HOCl",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "PbCl2 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "B) Ka and Kb values",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "B) H3O⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 2 moles of a substance with molar mass 50 g/mol, the mass is:",
+        "userAnswer": "C) 100 g",
+        "correctAnswer": "C) 100 g",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+        "userAnswer": "B) Only ions",
+        "correctAnswer": "C) Ions as well as molecules",
+        "isCorrect": false
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "D) Covalent bonding exclusively",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": true
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "B) The law of conservation of mass",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": true
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (aq) in a chemical equation stands for:",
+        "userAnswer": "B) Aqueous",
+        "correctAnswer": "B) Aqueous",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of NH4⁺?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "B) Accepts an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": true
+      }
+    ]
   }
 ]
