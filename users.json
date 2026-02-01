@@ -358,5 +358,11 @@
     "name": "Olamide",
     "password": "bWFyaWFtbW9t",
     "department": "Mechanical"
+  },
+  {
+    "id": "1769958300045",
+    "name": "Mubarak",
+    "password": "TXViYXJhazIwMDc=",
+    "department": "Food"
   }
 ]
