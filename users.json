@@ -208,5 +208,11 @@
     "name": "Samuel",
     "password": "U2FtdG9naTE=",
     "department": "Water"
+  },
+  {
+    "id": "1769951767663",
+    "name": "Abdulrasheed Abdulhakeem opobiyi",
+    "password": "SGF5a2F5NTA1MEA=",
+    "department": "Civil"
   }
 ]
