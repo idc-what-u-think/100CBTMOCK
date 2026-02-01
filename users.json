@@ -202,5 +202,11 @@
     "name": "Halimah",
     "password": "MTIzNDU2",
     "department": "Water"
+  },
+  {
+    "id": "1769951764828",
+    "name": "Samuel",
+    "password": "U2FtdG9naTE=",
+    "department": "Water"
   }
 ]
