@@ -322,5 +322,11 @@
     "name": "Oluwaseun",
     "password": "QWRlYmlzaQ==",
     "department": "Water"
+  },
+  {
+    "id": "1769957228400",
+    "name": "COG",
+    "password": "RUxPSElN",
+    "department": "Mechanical"
   }
 ]
