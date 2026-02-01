@@ -328,5 +328,11 @@
     "name": "COG",
     "password": "RUxPSElN",
     "department": "Mechanical"
+  },
+  {
+    "id": "1769957589819",
+    "name": "Wisdom",
+    "password": "d2lzZXdpc2RvbTEyMw==",
+    "department": "Water"
   }
 ]
