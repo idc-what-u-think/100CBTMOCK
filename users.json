@@ -94,5 +94,11 @@
     "name": "Abdulsamad",
     "password": "QWJkdWxzYW1hZDdA",
     "department": "Water"
+  },
+  {
+    "id": "1769950248579",
+    "name": "Raza",
+    "password": "UmF6YWRhbg==",
+    "department": "Agric"
   }
 ]
