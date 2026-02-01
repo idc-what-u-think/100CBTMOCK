@@ -646,5 +646,11 @@
     "name": "Smart",
     "password": "c21hcnQyMDA5",
     "department": "Chemical"
+  },
+  {
+    "id": "1769984085338",
+    "name": "Abdullah Adeeko",
+    "password": "YWJ1emF5ZA==",
+    "department": "Biomedical"
   }
 ]
