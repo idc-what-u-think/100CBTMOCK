@@ -508,5 +508,11 @@
     "name": "Oyindamola",
     "password": "b3lpbjIwMDg=",
     "department": "Food"
+  },
+  {
+    "id": "1769967861697",
+    "name": "David",
+    "password": "Y2hpYnVpa2UxMQ==",
+    "department": "Chemical"
   }
 ]
