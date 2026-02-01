@@ -9046,5 +9046,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769953342848",
+    "user_name": "Who is who",
+    "department": "Biomedical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 31,
+    "total": 50,
+    "timestamp": "2026-02-01T13:52:14.910Z",
+    "results": [
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "C) Donates an electron pair",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": true
+      },
+      {
+        "question": "To be acidic in the Lewis sense, a molecule must be:",
+        "userAnswer": "C) Electron rich",
+        "correctAnswer": "B) Electron deficient",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+        "userAnswer": "B) 16 moles",
+        "correctAnswer": "B) 16 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "A) H⁺ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "A) OH⁻",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, what does the arrow (→) represent?",
+        "userAnswer": "B) Direction of reaction",
+        "correctAnswer": "B) Direction of reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "A) HF",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "A) HOCl",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "A) BF3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "A) Gram",
+        "correctAnswer": "B) Gas",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and weak base are:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "B) Neutral",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "B) Acid-base reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "D) An electron deficient molecule",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "D) Iodine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": false
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "C) Salty",
+        "correctAnswer": "C) Salty",
+        "isCorrect": true
+      },
+      {
+        "question": "In a neutralization reaction, an acid and base form:",
+        "userAnswer": "C) Water and a salt",
+        "correctAnswer": "C) Water and a salt",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "A) +1",
+        "correctAnswer": "A) +1",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "A) H3O⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The typical color of pure salt (NaCl) is:",
+        "userAnswer": "C) Colourless, transparent, or white",
+        "correctAnswer": "C) Colourless, transparent, or white",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "A) Liter",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "B) Bronsted-Lowry concept only",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": false
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "A) NH4⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "A) Decreasing electronegativity of central atom",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+        "userAnswer": "C) Water and potassium sulfate",
+        "correctAnswer": "C) Water and potassium sulfate",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "B) Stronger the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": true
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "B) Balance the equation",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "B) 18.02 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "D) Covalent bonding exclusively",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts are obtained along with water in:",
+        "userAnswer": "C) Neutralization reactions",
+        "correctAnswer": "C) Neutralization reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "In hydrolysis, the constituent products are:",
+        "userAnswer": "B) Acid and base",
+        "correctAnswer": "B) Acid and base",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "A) The central nonmetal",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "D) +7",
+        "correctAnswer": "D) +7",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "C) N2",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": false
+      }
+    ]
   }
 ]
