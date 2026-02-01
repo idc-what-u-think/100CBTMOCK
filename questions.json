@@ -1,1 +1,2402 @@
-[]
+[
+  {
+    "id": "Q001",
+    "course_id": "CHM101",
+    "question": "According to Arrhenius, what is an acid?",
+    "options": [
+      "A) A proton donor",
+      "B) A compound that ionizes to produce hydrogen ions",
+      "C) An electron pair acceptor",
+      "D) A compound that ionizes to produce hydroxide ions"
+    ],
+    "correct_answer": "B) A compound that ionizes to produce hydrogen ions"
+  },
+  {
+    "id": "Q002",
+    "course_id": "CHM101",
+    "question": "According to Arrhenius, what is a base?",
+    "options": [
+      "A) A proton acceptor",
+      "B) A compound that ionizes to produce hydrogen ions",
+      "C) A compound that ionizes to produce hydroxide ions",
+      "D) An electron pair donor"
+    ],
+    "correct_answer": "C) A compound that ionizes to produce hydroxide ions"
+  },
+  {
+    "id": "Q003",
+    "course_id": "CHM101",
+    "question": "According to the Lowry-Bronsted definition, what is an acid?",
+    "options": [
+      "A) A proton acceptor",
+      "B) A proton donor",
+      "C) An electron pair acceptor",
+      "D) An electron pair donor"
+    ],
+    "correct_answer": "B) A proton donor"
+  },
+  {
+    "id": "Q004",
+    "course_id": "CHM101",
+    "question": "According to the Lowry-Bronsted definition, what is a base?",
+    "options": [
+      "A) A proton donor",
+      "B) An electron pair acceptor",
+      "C) A proton acceptor",
+      "D) An electron pair donor"
+    ],
+    "correct_answer": "C) A proton acceptor"
+  },
+  {
+    "id": "Q005",
+    "course_id": "CHM101",
+    "question": "According to Lewis, what is an acid?",
+    "options": [
+      "A) A proton donor",
+      "B) A species capable of coordinating with unshared electron pairs",
+      "C) A proton acceptor",
+      "D) A hydroxide ion producer"
+    ],
+    "correct_answer": "B) A species capable of coordinating with unshared electron pairs"
+  },
+  {
+    "id": "Q006",
+    "course_id": "CHM101",
+    "question": "According to Lewis, what is a base?",
+    "options": [
+      "A) A species with unshared electron pairs available for sharing",
+      "B) A proton donor",
+      "C) A proton acceptor",
+      "D) An electron deficient molecule"
+    ],
+    "correct_answer": "A) A species with unshared electron pairs available for sharing"
+  },
+  {
+    "id": "Q007",
+    "course_id": "CHM101",
+    "question": "To be acidic in the Lewis sense, a molecule must be:",
+    "options": [
+      "A) Proton rich",
+      "B) Electron deficient",
+      "C) Electron rich",
+      "D) Hydroxide deficient"
+    ],
+    "correct_answer": "B) Electron deficient"
+  },
+  {
+    "id": "Q008",
+    "course_id": "CHM101",
+    "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+    "options": [
+      "A) HCl",
+      "B) H2SO4",
+      "C) BF3",
+      "D) HNO3"
+    ],
+    "correct_answer": "C) BF3"
+  },
+  {
+    "id": "Q009",
+    "course_id": "CHM101",
+    "question": "All Lowery-Bronsted acids are also:",
+    "options": [
+      "A) Arrhenius acids",
+      "B) Lewis acids",
+      "C) Lewis bases",
+      "D) Arrhenius bases"
+    ],
+    "correct_answer": "B) Lewis acids"
+  },
+  {
+    "id": "Q010",
+    "course_id": "CHM101",
+    "question": "Which theory of acids and bases is the most general?",
+    "options": [
+      "A) Arrhenius theory",
+      "B) Bronsted-Lowry theory",
+      "C) Lewis theory",
+      "D) All are equally general"
+    ],
+    "correct_answer": "C) Lewis theory"
+  },
+  {
+    "id": "Q011",
+    "course_id": "CHM101",
+    "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+    "options": [
+      "A) OH⁻ ions",
+      "B) H3O⁺ ions",
+      "C) Na⁺ ions",
+      "D) Cl⁻ ions"
+    ],
+    "correct_answer": "B) H3O⁺ ions"
+  },
+  {
+    "id": "Q012",
+    "course_id": "CHM101",
+    "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+    "options": [
+      "A) H3O⁺ ions",
+      "B) H⁺ ions",
+      "C) OH⁻ ions",
+      "D) Cl⁻ ions"
+    ],
+    "correct_answer": "C) OH⁻ ions"
+  },
+  {
+    "id": "Q013",
+    "course_id": "CHM101",
+    "question": "Which is a limitation of the Arrhenius concept?",
+    "options": [
+      "A) It requires the presence of water",
+      "B) It explains all acid-base reactions",
+      "C) It works for all solvents",
+      "D) It explains Lewis acids perfectly"
+    ],
+    "correct_answer": "A) It requires the presence of water"
+  },
+  {
+    "id": "Q014",
+    "course_id": "CHM101",
+    "question": "Dry HCl cannot act as an acid according to:",
+    "options": [
+      "A) Lewis theory",
+      "B) Bronsted-Lowry theory",
+      "C) Arrhenius theory",
+      "D) All theories"
+    ],
+    "correct_answer": "C) Arrhenius theory"
+  },
+  {
+    "id": "Q015",
+    "course_id": "CHM101",
+    "question": "The Arrhenius concept cannot explain the acidic character of:",
+    "options": [
+      "A) HCl",
+      "B) H2SO4",
+      "C) AlCl3",
+      "D) HNO3"
+    ],
+    "correct_answer": "C) AlCl3"
+  },
+  {
+    "id": "Q016",
+    "course_id": "CHM101",
+    "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+    "options": [
+      "A) Johannes N. Brønsted only",
+      "B) Thomas M. Lowry only",
+      "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+      "D) G. N. Lewis"
+    ],
+    "correct_answer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently"
+  },
+  {
+    "id": "Q017",
+    "course_id": "CHM101",
+    "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+    "options": [
+      "A) Electron transfer reactions",
+      "B) Proton transfer reactions",
+      "C) Neutron transfer reactions",
+      "D) Hydroxide transfer reactions"
+    ],
+    "correct_answer": "B) Proton transfer reactions"
+  },
+  {
+    "id": "Q018",
+    "course_id": "CHM101",
+    "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+    "options": [
+      "A) NH3",
+      "B) H2O",
+      "C) H3O⁺",
+      "D) NH4⁺"
+    ],
+    "correct_answer": "C) H3O⁺"
+  },
+  {
+    "id": "Q019",
+    "course_id": "CHM101",
+    "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+    "options": [
+      "A) H3O⁺",
+      "B) NH3",
+      "C) H2O",
+      "D) NH4⁺"
+    ],
+    "correct_answer": "B) NH3"
+  },
+  {
+    "id": "Q020",
+    "course_id": "CHM101",
+    "question": "What is a conjugate acid-base pair?",
+    "options": [
+      "A) Two species that differ by a neutron",
+      "B) Two species that differ by a proton",
+      "C) Two species that differ by an electron",
+      "D) Two identical species"
+    ],
+    "correct_answer": "B) Two species that differ by a proton"
+  },
+  {
+    "id": "Q021",
+    "course_id": "CHM101",
+    "question": "What is the conjugate base of NH4⁺?",
+    "options": [
+      "A) NH2⁻",
+      "B) NH3",
+      "C) N2",
+      "D) NH5²⁺"
+    ],
+    "correct_answer": "B) NH3"
+  },
+  {
+    "id": "Q022",
+    "course_id": "CHM101",
+    "question": "What is the conjugate acid of NH3?",
+    "options": [
+      "A) NH2⁻",
+      "B) NH4⁺",
+      "C) N2",
+      "D) NH5²⁺"
+    ],
+    "correct_answer": "B) NH4⁺"
+  },
+  {
+    "id": "Q023",
+    "course_id": "CHM101",
+    "question": "Which is a limitation of the Bronsted-Lowry concept?",
+    "options": [
+      "A) It cannot explain reactions in non-protonic solvents",
+      "B) It works for all reactions",
+      "C) It requires water",
+      "D) It cannot explain proton transfer"
+    ],
+    "correct_answer": "A) It cannot explain reactions in non-protonic solvents"
+  },
+  {
+    "id": "Q024",
+    "course_id": "CHM101",
+    "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+    "options": [
+      "A) HCl",
+      "B) BF3",
+      "C) H2SO4",
+      "D) HNO3"
+    ],
+    "correct_answer": "B) BF3"
+  },
+  {
+    "id": "Q025",
+    "course_id": "CHM101",
+    "question": "An amphiprotic species is one that can act as:",
+    "options": [
+      "A) Only an acid",
+      "B) Only a base",
+      "C) Either an acid or a base",
+      "D) Neither an acid nor a base"
+    ],
+    "correct_answer": "C) Either an acid or a base"
+  },
+  {
+    "id": "Q026",
+    "course_id": "CHM101",
+    "question": "Which of the following is amphiprotic?",
+    "options": [
+      "A) Cl⁻",
+      "B) Na⁺",
+      "C) H2O",
+      "D) K⁺"
+    ],
+    "correct_answer": "C) H2O"
+  },
+  {
+    "id": "Q027",
+    "course_id": "CHM101",
+    "question": "HCO3⁻ is an example of:",
+    "options": [
+      "A) A strong acid",
+      "B) A strong base",
+      "C) An amphiprotic species",
+      "D) A neutral species"
+    ],
+    "correct_answer": "C) An amphiprotic species"
+  },
+  {
+    "id": "Q028",
+    "course_id": "CHM101",
+    "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+    "options": [
+      "A) An acid",
+      "B) A base",
+      "C) A neutral species",
+      "D) A salt"
+    ],
+    "correct_answer": "A) An acid"
+  },
+  {
+    "id": "Q029",
+    "course_id": "CHM101",
+    "question": "In the presence of HF, HCO3⁻ acts as:",
+    "options": [
+      "A) An acid",
+      "B) A base",
+      "C) A neutral species",
+      "D) A salt"
+    ],
+    "correct_answer": "B) A base"
+  },
+  {
+    "id": "Q030",
+    "course_id": "CHM101",
+    "question": "When water reacts with NH3, water acts as:",
+    "options": [
+      "A) A base",
+      "B) An acid",
+      "C) A salt",
+      "D) A neutral species"
+    ],
+    "correct_answer": "B) An acid"
+  },
+  {
+    "id": "Q031",
+    "course_id": "CHM101",
+    "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+    "options": [
+      "A) An acid",
+      "B) A base",
+      "C) A salt",
+      "D) A neutral species"
+    ],
+    "correct_answer": "B) A base"
+  },
+  {
+    "id": "Q032",
+    "course_id": "CHM101",
+    "question": "A Lewis acid is a species that:",
+    "options": [
+      "A) Donates an electron pair",
+      "B) Accepts an electron pair",
+      "C) Donates a proton",
+      "D) Accepts a proton"
+    ],
+    "correct_answer": "B) Accepts an electron pair"
+  },
+  {
+    "id": "Q033",
+    "course_id": "CHM101",
+    "question": "A Lewis base is a species that:",
+    "options": [
+      "A) Accepts an electron pair",
+      "B) Donates a proton",
+      "C) Donates an electron pair",
+      "D) Accepts a proton"
+    ],
+    "correct_answer": "C) Donates an electron pair"
+  },
+  {
+    "id": "Q034",
+    "course_id": "CHM101",
+    "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+    "options": [
+      "A) Na2O",
+      "B) O²⁻",
+      "C) SO3",
+      "D) Na⁺"
+    ],
+    "correct_answer": "C) SO3"
+  },
+  {
+    "id": "Q035",
+    "course_id": "CHM101",
+    "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+    "options": [
+      "A) SO3",
+      "B) Na⁺",
+      "C) O²⁻",
+      "D) Na2SO4"
+    ],
+    "correct_answer": "C) O²⁻"
+  },
+  {
+    "id": "Q036",
+    "course_id": "CHM101",
+    "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+    "options": [
+      "A) NH3",
+      "B) BF3",
+      "C) BF3NH3",
+      "D) Both BF3 and NH3"
+    ],
+    "correct_answer": "B) BF3"
+  },
+  {
+    "id": "Q037",
+    "course_id": "CHM101",
+    "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+    "options": [
+      "A) BF3",
+      "B) NH3",
+      "C) BF3NH3",
+      "D) Both BF3 and NH3"
+    ],
+    "correct_answer": "B) NH3"
+  },
+  {
+    "id": "Q038",
+    "course_id": "CHM101",
+    "question": "Which is a limitation of the Lewis concept?",
+    "options": [
+      "A) It is too general",
+      "B) It does not provide an idea about relative strength of acids and bases",
+      "C) It only works in water",
+      "D) It cannot explain electron pair transfer"
+    ],
+    "correct_answer": "B) It does not provide an idea about relative strength of acids and bases"
+  },
+  {
+    "id": "Q039",
+    "course_id": "CHM101",
+    "question": "Strong acids are characterized by:",
+    "options": [
+      "A) Partial ionization in water",
+      "B) Complete ionization in water",
+      "C) No ionization in water",
+      "D) Ionization only in organic solvents"
+    ],
+    "correct_answer": "B) Complete ionization in water"
+  },
+  {
+    "id": "Q040",
+    "course_id": "CHM101",
+    "question": "Weak acids are characterized by:",
+    "options": [
+      "A) Complete ionization in water",
+      "B) No ionization in water",
+      "C) Incomplete ionization in water",
+      "D) Ionization only in organic solvents"
+    ],
+    "correct_answer": "C) Incomplete ionization in water"
+  },
+  {
+    "id": "Q041",
+    "course_id": "CHM101",
+    "question": "The strength of an acid depends on:",
+    "options": [
+      "A) Its color",
+      "B) Its ability to donate a proton",
+      "C) Its molecular weight",
+      "D) Its boiling point"
+    ],
+    "correct_answer": "B) Its ability to donate a proton"
+  },
+  {
+    "id": "Q042",
+    "course_id": "CHM101",
+    "question": "Across a period, the acid strength of nonmetal hydrides:",
+    "options": [
+      "A) Decreases",
+      "B) Increases",
+      "C) Remains constant",
+      "D) First increases then decreases"
+    ],
+    "correct_answer": "B) Increases"
+  },
+  {
+    "id": "Q043",
+    "course_id": "CHM101",
+    "question": "Down a group, the acid strength of nonmetal hydrides:",
+    "options": [
+      "A) Decreases",
+      "B) Increases",
+      "C) Remains constant",
+      "D) First increases then decreases"
+    ],
+    "correct_answer": "B) Increases"
+  },
+  {
+    "id": "Q044",
+    "course_id": "CHM101",
+    "question": "The order of acid strength for hydrohalic acids is:",
+    "options": [
+      "A) HF > HCl > HBr > HI",
+      "B) HI > HBr > HCl > HF",
+      "C) HCl > HBr > HI > HF",
+      "D) HBr > HI > HCl > HF"
+    ],
+    "correct_answer": "B) HI > HBr > HCl > HF"
+  },
+  {
+    "id": "Q045",
+    "course_id": "CHM101",
+    "question": "The weakest hydrohalic acid is:",
+    "options": [
+      "A) HCl",
+      "B) HBr",
+      "C) HI",
+      "D) HF"
+    ],
+    "correct_answer": "D) HF"
+  },
+  {
+    "id": "Q046",
+    "course_id": "CHM101",
+    "question": "In oxoacids, the acidic H atom is bonded to:",
+    "options": [
+      "A) The central nonmetal",
+      "B) An O atom",
+      "C) A halogen",
+      "D) A metal"
+    ],
+    "correct_answer": "B) An O atom"
+  },
+  {
+    "id": "Q047",
+    "course_id": "CHM101",
+    "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+    "options": [
+      "A) Decreasing electronegativity of central atom",
+      "B) Increasing electronegativity of central atom",
+      "C) Molecular weight",
+      "D) Temperature"
+    ],
+    "correct_answer": "B) Increasing electronegativity of central atom"
+  },
+  {
+    "id": "Q048",
+    "course_id": "CHM101",
+    "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+    "options": [
+      "A) Decreasing number of O atoms",
+      "B) Increasing number of O atoms",
+      "C) Molecular weight",
+      "D) Temperature"
+    ],
+    "correct_answer": "B) Increasing number of O atoms"
+  },
+  {
+    "id": "Q049",
+    "course_id": "CHM101",
+    "question": "The order of acid strength for chlorine oxoacids is:",
+    "options": [
+      "A) HOCl > HOClO2 > HOClO3 > HClO4",
+      "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+      "C) HOClO2 > HOClO3 > HClO4 > HOCl",
+      "D) HOClO3 > HClO4 > HOClO2 > HOCl"
+    ],
+    "correct_answer": "B) HClO4 > HOClO3 > HOClO2 > HOCl"
+  },
+  {
+    "id": "Q050",
+    "course_id": "CHM101",
+    "question": "Which is stronger: HNO3 or HNO2?",
+    "options": [
+      "A) HNO2",
+      "B) HNO3",
+      "C) They are equal",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "B) HNO3"
+  },
+  {
+    "id": "Q051",
+    "course_id": "CHM101",
+    "question": "Which is stronger: H2SO4 or H2SO3?",
+    "options": [
+      "A) H2SO3",
+      "B) H2SO4",
+      "C) They are equal",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "B) H2SO4"
+  },
+  {
+    "id": "Q052",
+    "course_id": "CHM101",
+    "question": "A strong base is one that:",
+    "options": [
+      "A) Partially dissociates in solution",
+      "B) Does not dissociate in solution",
+      "C) Completely dissociates in solution",
+      "D) Only dissociates in organic solvents"
+    ],
+    "correct_answer": "C) Completely dissociates in solution"
+  },
+  {
+    "id": "Q053",
+    "course_id": "CHM101",
+    "question": "NaOH is an example of:",
+    "options": [
+      "A) A weak base",
+      "B) A strong base",
+      "C) A weak acid",
+      "D) A strong acid"
+    ],
+    "correct_answer": "B) A strong base"
+  },
+  {
+    "id": "Q054",
+    "course_id": "CHM101",
+    "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+    "options": [
+      "A) 1 mole",
+      "B) 2 moles",
+      "C) 3 moles",
+      "D) 4 moles"
+    ],
+    "correct_answer": "B) 2 moles"
+  },
+  {
+    "id": "Q055",
+    "course_id": "CHM101",
+    "question": "Neutralization reactions are also called:",
+    "options": [
+      "A) Redox reactions",
+      "B) Acid-base reactions",
+      "C) Precipitation reactions",
+      "D) Decomposition reactions"
+    ],
+    "correct_answer": "B) Acid-base reactions"
+  },
+  {
+    "id": "Q056",
+    "course_id": "CHM101",
+    "question": "The net ionic equation for many acid-base reactions is:",
+    "options": [
+      "A) H⁺(aq) + Cl⁻(aq) → HCl(aq)",
+      "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+      "C) Na⁺(aq) + Cl⁻(aq) → NaCl(s)",
+      "D) H2O(l) → H⁺(aq) + OH⁻(aq)"
+    ],
+    "correct_answer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)"
+  },
+  {
+    "id": "Q057",
+    "course_id": "CHM101",
+    "question": "What is the general pattern of acid-base reactions?",
+    "options": [
+      "A) Acid + Base → Salt only",
+      "B) Acid + Base → Water + Salt",
+      "C) Acid + Base → Gas + Salt",
+      "D) Acid + Base → Heat only"
+    ],
+    "correct_answer": "B) Acid + Base → Water + Salt"
+  },
+  {
+    "id": "Q058",
+    "course_id": "CHM101",
+    "question": "What is a salt in chemistry?",
+    "options": [
+      "A) Any white crystalline substance",
+      "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+      "C) Only NaCl",
+      "D) Any compound containing sodium"
+    ],
+    "correct_answer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻"
+  },
+  {
+    "id": "Q059",
+    "course_id": "CHM101",
+    "question": "Salts are obtained along with water in:",
+    "options": [
+      "A) Oxidation reactions",
+      "B) Reduction reactions",
+      "C) Neutralization reactions",
+      "D) Decomposition reactions"
+    ],
+    "correct_answer": "C) Neutralization reactions"
+  },
+  {
+    "id": "Q060",
+    "course_id": "CHM101",
+    "question": "NaCl is an example of:",
+    "options": [
+      "A) An acid",
+      "B) A base",
+      "C) A salt",
+      "D) A neutral oxide"
+    ],
+    "correct_answer": "C) A salt"
+  },
+  {
+    "id": "Q061",
+    "course_id": "CHM101",
+    "question": "What is an acidic salt?",
+    "options": [
+      "A) A salt formed by complete neutralization",
+      "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+      "C) A salt with no ionizable H⁺",
+      "D) A salt containing only OH⁻"
+    ],
+    "correct_answer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid"
+  },
+  {
+    "id": "Q062",
+    "course_id": "CHM101",
+    "question": "Which of the following is an acidic salt?",
+    "options": [
+      "A) NaCl",
+      "B) Na2CO3",
+      "C) NaHSO4",
+      "D) KOH"
+    ],
+    "correct_answer": "C) NaHSO4"
+  },
+  {
+    "id": "Q063",
+    "course_id": "CHM101",
+    "question": "Acidic salts have:",
+    "options": [
+      "A) No ionizable ions",
+      "B) Ionizable H⁺ along with another cation",
+      "C) Only OH⁻ ions",
+      "D) Only metal ions"
+    ],
+    "correct_answer": "B) Ionizable H⁺ along with another cation"
+  },
+  {
+    "id": "Q064",
+    "course_id": "CHM101",
+    "question": "Which salt is used in baking?",
+    "options": [
+      "A) NaCl",
+      "B) Some acid salts",
+      "C) KOH",
+      "D) Na2O"
+    ],
+    "correct_answer": "B) Some acid salts"
+  },
+  {
+    "id": "Q065",
+    "course_id": "CHM101",
+    "question": "A basic or alkali salt is formed by partial neutralization of:",
+    "options": [
+      "A) A strong acid by a strong base",
+      "B) A weak acid by a weak base",
+      "C) A strong base by a weak acid",
+      "D) A strong acid by a weak base"
+    ],
+    "correct_answer": "C) A strong base by a weak acid"
+  },
+  {
+    "id": "Q066",
+    "course_id": "CHM101",
+    "question": "Which of the following is a basic salt?",
+    "options": [
+      "A) NaHSO4",
+      "B) NH4Cl",
+      "C) Na2S",
+      "D) KH2PO4"
+    ],
+    "correct_answer": "C) Na2S"
+  },
+  {
+    "id": "Q067",
+    "course_id": "CHM101",
+    "question": "Basic salts hydrolyze to form:",
+    "options": [
+      "A) An acidic solution",
+      "B) A basic solution",
+      "C) A neutral solution",
+      "D) A precipitate only"
+    ],
+    "correct_answer": "B) A basic solution"
+  },
+  {
+    "id": "Q068",
+    "course_id": "CHM101",
+    "question": "A double salt contains:",
+    "options": [
+      "A) Only one cation",
+      "B) Only one anion",
+      "C) More than one cation or anion",
+      "D) No ions"
+    ],
+    "correct_answer": "C) More than one cation or anion"
+  },
+  {
+    "id": "Q069",
+    "course_id": "CHM101",
+    "question": "Rochelle salt is also known as:",
+    "options": [
+      "A) Sodium chloride",
+      "B) Potassium sodium tartrate",
+      "C) Potassium chloride",
+      "D) Sodium carbonate"
+    ],
+    "correct_answer": "B) Potassium sodium tartrate"
+  },
+  {
+    "id": "Q070",
+    "course_id": "CHM101",
+    "question": "Potash Alum has the formula:",
+    "options": [
+      "A) KCl",
+      "B) K2SO4.Al2(SO4)3.24H2O",
+      "C) NaCl",
+      "D) KOH"
+    ],
+    "correct_answer": "B) K2SO4.Al2(SO4)3.24H2O"
+  },
+  {
+    "id": "Q071",
+    "course_id": "CHM101",
+    "question": "A mixed salt consists of:",
+    "options": [
+      "A) Only one type of salt",
+      "B) A fixed proportion of two salts",
+      "C) Acids and bases mixed",
+      "D) Water and salt"
+    ],
+    "correct_answer": "B) A fixed proportion of two salts"
+  },
+  {
+    "id": "Q072",
+    "course_id": "CHM101",
+    "question": "CaOCl2 is an example of:",
+    "options": [
+      "A) An acidic salt",
+      "B) A basic salt",
+      "C) A mixed salt",
+      "D) A double salt"
+    ],
+    "correct_answer": "C) A mixed salt"
+  },
+  {
+    "id": "Q073",
+    "course_id": "CHM101",
+    "question": "The typical color of pure salt (NaCl) is:",
+    "options": [
+      "A) Yellow",
+      "B) Red",
+      "C) Colourless, transparent, or white",
+      "D) Blue"
+    ],
+    "correct_answer": "C) Colourless, transparent, or white"
+  },
+  {
+    "id": "Q074",
+    "course_id": "CHM101",
+    "question": "The melting point of sodium chloride is approximately:",
+    "options": [
+      "A) 100°C",
+      "B) 500°C",
+      "C) 800°C",
+      "D) 1500°C"
+    ],
+    "correct_answer": "C) 800°C"
+  },
+  {
+    "id": "Q075",
+    "course_id": "CHM101",
+    "question": "The boiling point of sodium chloride is approximately:",
+    "options": [
+      "A) 100°C",
+      "B) 800°C",
+      "C) 1464°C",
+      "D) 2000°C"
+    ],
+    "correct_answer": "C) 1464°C"
+  },
+  {
+    "id": "Q076",
+    "course_id": "CHM101",
+    "question": "Saltwater is a conductor of electricity because it contains:",
+    "options": [
+      "A) Only water molecules",
+      "B) Ions",
+      "C) Organic compounds",
+      "D) Metals"
+    ],
+    "correct_answer": "B) Ions"
+  },
+  {
+    "id": "Q077",
+    "course_id": "CHM101",
+    "question": "Hydrolysis of salt refers to:",
+    "options": [
+      "A) The heating of salt",
+      "B) The reaction of salt with water",
+      "C) The dissolution of salt in acid",
+      "D) The crystallization of salt"
+    ],
+    "correct_answer": "B) The reaction of salt with water"
+  },
+  {
+    "id": "Q078",
+    "course_id": "CHM101",
+    "question": "Hydrolysis of salt is the reverse of:",
+    "options": [
+      "A) An oxidation reaction",
+      "B) A reduction reaction",
+      "C) A neutralization reaction",
+      "D) A decomposition reaction"
+    ],
+    "correct_answer": "C) A neutralization reaction"
+  },
+  {
+    "id": "Q079",
+    "course_id": "CHM101",
+    "question": "In hydrolysis, the constituent products are:",
+    "options": [
+      "A) Water and heat",
+      "B) Acid and base",
+      "C) Ions only",
+      "D) Precipitates only"
+    ],
+    "correct_answer": "B) Acid and base"
+  },
+  {
+    "id": "Q080",
+    "course_id": "CHM101",
+    "question": "Salts of strong acid and strong base are:",
+    "options": [
+      "A) Acidic",
+      "B) Basic",
+      "C) Neutral",
+      "D) Amphoteric"
+    ],
+    "correct_answer": "C) Neutral"
+  },
+  {
+    "id": "Q081",
+    "course_id": "CHM101",
+    "question": "NaCl is a salt of:",
+    "options": [
+      "A) Weak acid and weak base",
+      "B) Strong acid and strong base",
+      "C) Weak acid and strong base",
+      "D) Strong acid and weak base"
+    ],
+    "correct_answer": "B) Strong acid and strong base"
+  },
+  {
+    "id": "Q082",
+    "course_id": "CHM101",
+    "question": "Salts of weak acid and strong base are:",
+    "options": [
+      "A) Acidic",
+      "B) Basic",
+      "C) Neutral",
+      "D) Insoluble"
+    ],
+    "correct_answer": "B) Basic"
+  },
+  {
+    "id": "Q083",
+    "course_id": "CHM101",
+    "question": "CH3COONa is a salt of:",
+    "options": [
+      "A) Strong acid and strong base",
+      "B) Weak acid and strong base",
+      "C) Strong acid and weak base",
+      "D) Weak acid and weak base"
+    ],
+    "correct_answer": "B) Weak acid and strong base"
+  },
+  {
+    "id": "Q084",
+    "course_id": "CHM101",
+    "question": "The pH of a salt solution from weak acid and strong base is:",
+    "options": [
+      "A) Less than 7",
+      "B) Equal to 7",
+      "C) Greater than 7",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "C) Greater than 7"
+  },
+  {
+    "id": "Q085",
+    "course_id": "CHM101",
+    "question": "Salts of strong acid and weak base are:",
+    "options": [
+      "A) Basic",
+      "B) Neutral",
+      "C) Acidic",
+      "D) Amphoteric"
+    ],
+    "correct_answer": "C) Acidic"
+  },
+  {
+    "id": "Q086",
+    "course_id": "CHM101",
+    "question": "NH4Cl is a salt of:",
+    "options": [
+      "A) Weak acid and weak base",
+      "B) Strong acid and weak base",
+      "C) Weak acid and strong base",
+      "D) Strong acid and strong base"
+    ],
+    "correct_answer": "B) Strong acid and weak base"
+  },
+  {
+    "id": "Q087",
+    "course_id": "CHM101",
+    "question": "The pH of NH4Cl solution is:",
+    "options": [
+      "A) Greater than 7",
+      "B) Equal to 7",
+      "C) Less than 7",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "C) Less than 7"
+  },
+  {
+    "id": "Q088",
+    "course_id": "CHM101",
+    "question": "Salts of weak acid and weak base can be:",
+    "options": [
+      "A) Only acidic",
+      "B) Only basic",
+      "C) Only neutral",
+      "D) Acidic, basic, or neutral"
+    ],
+    "correct_answer": "D) Acidic, basic, or neutral"
+  },
+  {
+    "id": "Q089",
+    "course_id": "CHM101",
+    "question": "CH3COONH4 is a salt of:",
+    "options": [
+      "A) Strong acid and strong base",
+      "B) Weak acid and weak base",
+      "C) Strong acid and weak base",
+      "D) Weak acid and strong base"
+    ],
+    "correct_answer": "B) Weak acid and weak base"
+  },
+  {
+    "id": "Q090",
+    "course_id": "CHM101",
+    "question": "For salts of weak acid and weak base, the pH depends on:",
+    "options": [
+      "A) Temperature only",
+      "B) Ka and Kb values",
+      "C) Concentration only",
+      "D) Pressure only"
+    ],
+    "correct_answer": "B) Ka and Kb values"
+  },
+  {
+    "id": "Q091",
+    "course_id": "CHM101",
+    "question": "All nitrate salts are:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Slightly soluble",
+      "D) Sparingly soluble"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q092",
+    "course_id": "CHM101",
+    "question": "All ammonium salts are:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Slightly soluble",
+      "D) Sparingly soluble"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q093",
+    "course_id": "CHM101",
+    "question": "Which chloride salt is insoluble?",
+    "options": [
+      "A) NaCl",
+      "B) KCl",
+      "C) AgCl",
+      "D) NH4Cl"
+    ],
+    "correct_answer": "C) AgCl"
+  },
+  {
+    "id": "Q094",
+    "course_id": "CHM101",
+    "question": "Which sulphate salt is insoluble?",
+    "options": [
+      "A) Na2SO4",
+      "B) K2SO4",
+      "C) BaSO4",
+      "D) (NH4)2SO4"
+    ],
+    "correct_answer": "C) BaSO4"
+  },
+  {
+    "id": "Q095",
+    "course_id": "CHM101",
+    "question": "Most carbonate salts are:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Highly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q096",
+    "course_id": "CHM101",
+    "question": "Which carbonate is soluble?",
+    "options": [
+      "A) CaCO3",
+      "B) BaCO3",
+      "C) Na2CO3",
+      "D) MgCO3"
+    ],
+    "correct_answer": "C) Na2CO3"
+  },
+  {
+    "id": "Q097",
+    "course_id": "CHM101",
+    "question": "Most Lead(II) salts are:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Volatile",
+      "D) Combustible"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q098",
+    "course_id": "CHM101",
+    "question": "Which Lead(II) salt is soluble?",
+    "options": [
+      "A) PbCl2",
+      "B) PbSO4",
+      "C) Pb(NO3)2",
+      "D) PbCO3"
+    ],
+    "correct_answer": "C) Pb(NO3)2"
+  },
+  {
+    "id": "Q099",
+    "course_id": "CHM101",
+    "question": "All ethanoate (acetate) salts are:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Sparingly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q100",
+    "course_id": "CHM101",
+    "question": "All sodium and potassium salts are:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Sparingly soluble",
+      "D) Slightly soluble"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q101",
+    "course_id": "CHM101",
+    "question": "A chemical equation is:",
+    "options": [
+      "A) A verbal description of a reaction",
+      "B) A symbolic representation of a chemical change",
+      "C) A list of reactants only",
+      "D) A list of products only"
+    ],
+    "correct_answer": "B) A symbolic representation of a chemical change"
+  },
+  {
+    "id": "Q102",
+    "course_id": "CHM101",
+    "question": "In a chemical equation, species on the left side of the arrow are called:",
+    "options": [
+      "A) Products",
+      "B) Catalysts",
+      "C) Reactants",
+      "D) Intermediates"
+    ],
+    "correct_answer": "C) Reactants"
+  },
+  {
+    "id": "Q103",
+    "course_id": "CHM101",
+    "question": "In a chemical equation, species on the right side of the arrow are called:",
+    "options": [
+      "A) Reactants",
+      "B) Products",
+      "C) Catalysts",
+      "D) Intermediates"
+    ],
+    "correct_answer": "B) Products"
+  },
+  {
+    "id": "Q104",
+    "course_id": "CHM101",
+    "question": "The abbreviation (s) in a chemical equation stands for:",
+    "options": [
+      "A) Solution",
+      "B) Soluble",
+      "C) Solid",
+      "D) Suspension"
+    ],
+    "correct_answer": "C) Solid"
+  },
+  {
+    "id": "Q105",
+    "course_id": "CHM101",
+    "question": "The abbreviation (g) in a chemical equation stands for:",
+    "options": [
+      "A) Gram",
+      "B) Gas",
+      "C) Green",
+      "D) Group"
+    ],
+    "correct_answer": "B) Gas"
+  },
+  {
+    "id": "Q106",
+    "course_id": "CHM101",
+    "question": "The abbreviation (l) in a chemical equation stands for:",
+    "options": [
+      "A) Liter",
+      "B) Light",
+      "C) Liquid",
+      "D) Large"
+    ],
+    "correct_answer": "C) Liquid"
+  },
+  {
+    "id": "Q107",
+    "course_id": "CHM101",
+    "question": "A balanced chemical equation obeys:",
+    "options": [
+      "A) The law of definite proportions",
+      "B) The law of conservation of mass",
+      "C) The law of multiple proportions",
+      "D) The periodic law"
+    ],
+    "correct_answer": "B) The law of conservation of mass"
+  },
+  {
+    "id": "Q108",
+    "course_id": "CHM101",
+    "question": "In a balanced chemical equation, the number of atoms of each type on the reactant side:",
+    "options": [
+      "A) Is less than on the product side",
+      "B) Is greater than on the product side",
+      "C) Equals the number on the product side",
+      "D) Has no relationship to the product side"
+    ],
+    "correct_answer": "C) Equals the number on the product side"
+  },
+  {
+    "id": "Q109",
+    "course_id": "CHM101",
+    "question": "The products of complete combustion of a hydrocarbon are:",
+    "options": [
+      "A) CO and H2O",
+      "B) CO2 and H2O",
+      "C) C and H2",
+      "D) CO2 and H2"
+    ],
+    "correct_answer": "B) CO2 and H2O"
+  },
+  {
+    "id": "Q110",
+    "course_id": "CHM101",
+    "question": "Stoichiometry refers to:",
+    "options": [
+      "A) The speed of a reaction",
+      "B) The proportions in a chemical formula or reaction",
+      "C) The temperature of a reaction",
+      "D) The color change in a reaction"
+    ],
+    "correct_answer": "B) The proportions in a chemical formula or reaction"
+  },
+  {
+    "id": "Q111",
+    "course_id": "CHM101",
+    "question": "Formula stoichiometry refers to:",
+    "options": [
+      "A) Proportions of reactants and products",
+      "B) Proportions of elements in a compound",
+      "C) Rate of reaction",
+      "D) Equilibrium constant"
+    ],
+    "correct_answer": "B) Proportions of elements in a compound"
+  },
+  {
+    "id": "Q112",
+    "course_id": "CHM101",
+    "question": "Reaction stoichiometry refers to:",
+    "options": [
+      "A) Proportions of elements in a compound",
+      "B) Proportions of reactants and products in a reaction",
+      "C) Temperature changes",
+      "D) Pressure changes"
+    ],
+    "correct_answer": "B) Proportions of reactants and products in a reaction"
+  },
+  {
+    "id": "Q113",
+    "course_id": "CHM101",
+    "question": "The subscripts in a chemical formula give:",
+    "options": [
+      "A) Reaction stoichiometry",
+      "B) Formula stoichiometry",
+      "C) Molecular weight only",
+      "D) Oxidation states"
+    ],
+    "correct_answer": "B) Formula stoichiometry"
+  },
+  {
+    "id": "Q114",
+    "course_id": "CHM101",
+    "question": "The coefficients in a balanced equation give:",
+    "options": [
+      "A) Formula stoichiometry",
+      "B) Atomic weights",
+      "C) Reaction stoichiometry",
+      "D) Electron configuration"
+    ],
+    "correct_answer": "C) Reaction stoichiometry"
+  },
+  {
+    "id": "Q115",
+    "course_id": "CHM101",
+    "question": "The limiting reactant is:",
+    "options": [
+      "A) The reactant in excess",
+      "B) The reactant that is completely consumed first",
+      "C) The reactant with the largest mass",
+      "D) The reactant with the smallest mass"
+    ],
+    "correct_answer": "B) The reactant that is completely consumed first"
+  },
+  {
+    "id": "Q116",
+    "course_id": "CHM101",
+    "question": "When a reactant is in stoichiometric excess, it means:",
+    "options": [
+      "A) It is the limiting reactant",
+      "B) There is more than required by stoichiometry",
+      "C) It is completely consumed",
+      "D) It does not react"
+    ],
+    "correct_answer": "B) There is more than required by stoichiometry"
+  },
+  {
+    "id": "Q117",
+    "course_id": "CHM101",
+    "question": "Theoretical yield is:",
+    "options": [
+      "A) The actual amount of product obtained",
+      "B) The calculated maximum amount of product assuming 100% conversion",
+      "C) The minimum amount of product",
+      "D) The average of multiple trials"
+    ],
+    "correct_answer": "B) The calculated maximum amount of product assuming 100% conversion"
+  },
+  {
+    "id": "Q118",
+    "course_id": "CHM101",
+    "question": "Actual yield (observed yield) is:",
+    "options": [
+      "A) The calculated maximum product",
+      "B) The theoretical yield",
+      "C) The amount of product actually obtained in the lab",
+      "D) Always equal to theoretical yield"
+    ],
+    "correct_answer": "C) The amount of product actually obtained in the lab"
+  },
+  {
+    "id": "Q119",
+    "course_id": "CHM101",
+    "question": "Percent yield is calculated as:",
+    "options": [
+      "A) (Theoretical yield / Observed yield) × 100",
+      "B) (Observed yield / Theoretical yield) × 100",
+      "C) (Observed yield + Theoretical yield) / 2",
+      "D) Theoretical yield - Observed yield"
+    ],
+    "correct_answer": "B) (Observed yield / Theoretical yield) × 100"
+  },
+  {
+    "id": "Q120",
+    "course_id": "CHM101",
+    "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+    "options": [
+      "A) 125%",
+      "B) 80%",
+      "C) 20%",
+      "D) 50%"
+    ],
+    "correct_answer": "B) 80%"
+  },
+  {
+    "id": "Q121",
+    "course_id": "CHM101",
+    "question": "In practice, conversion of reactants to products is:",
+    "options": [
+      "A) Always 100%",
+      "B) Always 0%",
+      "C) Usually less than 100%",
+      "D) Always more than 100%"
+    ],
+    "correct_answer": "C) Usually less than 100%"
+  },
+  {
+    "id": "Q122",
+    "course_id": "CHM101",
+    "question": "To maximize conversion of a given reactant, other reactants should be:",
+    "options": [
+      "A) In limiting amounts",
+      "B) In stoichiometric excess",
+      "C) Absent",
+      "D) At minimum concentration"
+    ],
+    "correct_answer": "B) In stoichiometric excess"
+  },
+  {
+    "id": "Q123",
+    "course_id": "CHM101",
+    "question": "The molar mass of ClO2 is approximately:",
+    "options": [
+      "A) 35.45 g/mol",
+      "B) 51.45 g/mol",
+      "C) 67.45 g/mol",
+      "D) 83.45 g/mol"
+    ],
+    "correct_answer": "C) 67.45 g/mol"
+  },
+  {
+    "id": "Q124",
+    "course_id": "CHM101",
+    "question": "The molar mass of H2O is approximately:",
+    "options": [
+      "A) 16.00 g/mol",
+      "B) 18.02 g/mol",
+      "C) 20.00 g/mol",
+      "D) 34.00 g/mol"
+    ],
+    "correct_answer": "B) 18.02 g/mol"
+  },
+  {
+    "id": "Q125",
+    "course_id": "CHM101",
+    "question": "To convert mass to moles, you divide mass by:",
+    "options": [
+      "A) Avogadro's number",
+      "B) Density",
+      "C) Molar mass",
+      "D) Volume"
+    ],
+    "correct_answer": "C) Molar mass"
+  },
+  {
+    "id": "Q126",
+    "course_id": "CHM101",
+    "question": "To convert moles to mass, you multiply moles by:",
+    "options": [
+      "A) Avogadro's number",
+      "B) Density",
+      "C) Molar mass",
+      "D) Volume"
+    ],
+    "correct_answer": "C) Molar mass"
+  },
+  {
+    "id": "Q127",
+    "course_id": "CHM101",
+    "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of ClO2 to H2O is:",
+    "options": [
+      "A) 1:1",
+      "B) 2:1",
+      "C) 3:1",
+      "D) 6:3"
+    ],
+    "correct_answer": "B) 2:1"
+  },
+  {
+    "id": "Q128",
+    "course_id": "CHM101",
+    "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+    "options": [
+      "A) 1:1",
+      "B) 3:5",
+      "C) 5:3",
+      "D) 1:2"
+    ],
+    "correct_answer": "B) 3:5"
+  },
+  {
+    "id": "Q129",
+    "course_id": "CHM101",
+    "question": "The molar mass of HClO3 is approximately:",
+    "options": [
+      "A) 52.46 g/mol",
+      "B) 68.46 g/mol",
+      "C) 84.46 g/mol",
+      "D) 100.46 g/mol"
+    ],
+    "correct_answer": "C) 84.46 g/mol"
+  },
+  {
+    "id": "Q130",
+    "course_id": "CHM101",
+    "question": "In balancing equations, what can be changed?",
+    "options": [
+      "A) Subscripts in formulas",
+      "B) Coefficients before formulas",
+      "C) Element symbols",
+      "D) States of matter"
+    ],
+    "correct_answer": "B) Coefficients before formulas"
+  },
+  {
+    "id": "Q131",
+    "course_id": "CHM101",
+    "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+    "options": [
+      "A) Pb(OH)4 + H2SO4 → Pb(SO4)2 + 2H2O",
+      "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+      "C) 2Pb(OH)4 + H2SO4 → Pb(SO4)2 + 4H2O",
+      "D) Pb(OH)4 + 4H2SO4 → Pb(SO4)2 + 8H2O"
+    ],
+    "correct_answer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O"
+  },
+  {
+    "id": "Q132",
+    "course_id": "CHM101",
+    "question": "Which atom has the highest electronegativity?",
+    "options": [
+      "A) Fluorine",
+      "B) Chlorine",
+      "C) Bromine",
+      "D) Iodine"
+    ],
+    "correct_answer": "A) Fluorine"
+  },
+  {
+    "id": "Q133",
+    "course_id": "CHM101",
+    "question": "Down a group in the periodic table, electronegativity:",
+    "options": [
+      "A) Increases",
+      "B) Decreases",
+      "C) Remains constant",
+      "D) Fluctuates randomly"
+    ],
+    "correct_answer": "B) Decreases"
+  },
+  {
+    "id": "Q134",
+    "course_id": "CHM101",
+    "question": "Across a period in the periodic table, electronegativity:",
+    "options": [
+      "A) Decreases",
+      "B) Increases",
+      "C) Remains constant",
+      "D) Fluctuates randomly"
+    ],
+    "correct_answer": "B) Increases"
+  },
+  {
+    "id": "Q135",
+    "course_id": "CHM101",
+    "question": "The more electronegative an atom bonded to hydrogen, the:",
+    "options": [
+      "A) Weaker the acid",
+      "B) Stronger the acid",
+      "C) More neutral the compound",
+      "D) Less polar the bond"
+    ],
+    "correct_answer": "B) Stronger the acid"
+  },
+  {
+    "id": "Q136",
+    "course_id": "CHM101",
+    "question": "In Group 6A(16), which is the stronger acid?",
+    "options": [
+      "A) H2SeO4",
+      "B) H2SO4",
+      "C) They are equal",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "B) H2SO4"
+  },
+  {
+    "id": "Q137",
+    "course_id": "CHM101",
+    "question": "In Group 5A(15), which is the stronger acid?",
+    "options": [
+      "A) H3AsO4",
+      "B) H3PO4",
+      "C) They are equal",
+      "D) Cannot be determined"
+    ],
+    "correct_answer": "B) H3PO4"
+  },
+  {
+    "id": "Q138",
+    "course_id": "CHM101",
+    "question": "The strongest chlorine oxoacid is:",
+    "options": [
+      "A) HOCl",
+      "B) HOClO2",
+      "C) HOClO3",
+      "D) HClO4"
+    ],
+    "correct_answer": "D) HClO4"
+  },
+  {
+    "id": "Q139",
+    "course_id": "CHM101",
+    "question": "The weakest chlorine oxoacid is:",
+    "options": [
+      "A) HOCl",
+      "B) HOClO2",
+      "C) HOClO3",
+      "D) HClO4"
+    ],
+    "correct_answer": "A) HOCl"
+  },
+  {
+    "id": "Q140",
+    "course_id": "CHM101",
+    "question": "In NH4⁺ and NH3, which is the acid?",
+    "options": [
+      "A) NH3",
+      "B) NH4⁺",
+      "C) Both",
+      "D) Neither"
+    ],
+    "correct_answer": "B) NH4⁺"
+  },
+  {
+    "id": "Q141",
+    "course_id": "CHM101",
+    "question": "In NH4⁺ and NH3, which is the base?",
+    "options": [
+      "A) NH4⁺",
+      "B) NH3",
+      "C) Both",
+      "D) Neither"
+    ],
+    "correct_answer": "B) NH3"
+  },
+  {
+    "id": "Q142",
+    "course_id": "CHM101",
+    "question": "What type of bond is formed in Lewis acid-base reactions?",
+    "options": [
+      "A) Ionic bond",
+      "B) Covalent bond",
+      "C) Metallic bond",
+      "D) Hydrogen bond"
+    ],
+    "correct_answer": "B) Covalent bond"
+  },
+  {
+    "id": "Q143",
+    "course_id": "CHM101",
+    "question": "In a proton transfer, H⁺ acts as:",
+    "options": [
+      "A) A Lewis base",
+      "B) A Lewis acid",
+      "C) A neutral species",
+      "D) A salt"
+    ],
+    "correct_answer": "B) A Lewis acid"
+  },
+  {
+    "id": "Q144",
+    "course_id": "CHM101",
+    "question": "AlCl3 is an example of:",
+    "options": [
+      "A) A Bronsted-Lowry acid",
+      "B) An Arrhenius acid",
+      "C) A Lewis acid",
+      "D) A strong base"
+    ],
+    "correct_answer": "C) A Lewis acid"
+  },
+  {
+    "id": "Q145",
+    "course_id": "CHM101",
+    "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+    "options": [
+      "A) Only molecules",
+      "B) Only ions",
+      "C) Ions as well as molecules",
+      "D) Only neutral species"
+    ],
+    "correct_answer": "C) Ions as well as molecules"
+  },
+  {
+    "id": "Q146",
+    "course_id": "CHM101",
+    "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+    "options": [
+      "A) Aqueous solutions only",
+      "B) Any solvent or no solvent",
+      "C) Organic solvents only",
+      "D) Gas phase only"
+    ],
+    "correct_answer": "B) Any solvent or no solvent"
+  },
+  {
+    "id": "Q147",
+    "course_id": "CHM101",
+    "question": "The reaction HCl + NH3 → NH4Cl in benzene involves:",
+    "options": [
+      "A) Ionization of HCl",
+      "B) No ionization of reactants",
+      "C) Formation of OH⁻",
+      "D) Formation of H3O⁺"
+    ],
+    "correct_answer": "B) No ionization of reactants"
+  },
+  {
+    "id": "Q148",
+    "course_id": "CHM101",
+    "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+    "options": [
+      "A) Bond length",
+      "B) Electronegativity",
+      "C) Atomic radius",
+      "D) Ionization energy"
+    ],
+    "correct_answer": "B) Electronegativity"
+  },
+  {
+    "id": "Q149",
+    "course_id": "CHM101",
+    "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+    "options": [
+      "A) Electronegativity",
+      "B) Bond strength",
+      "C) Ionization energy",
+      "D) Electron affinity"
+    ],
+    "correct_answer": "B) Bond strength"
+  },
+  {
+    "id": "Q150",
+    "course_id": "CHM101",
+    "question": "As the X-H bond becomes longer and weaker down a group:",
+    "options": [
+      "A) Acid strength decreases",
+      "B) Acid strength increases",
+      "C) Acid strength remains constant",
+      "D) The compound becomes basic"
+    ],
+    "correct_answer": "B) Acid strength increases"
+  },
+  {
+    "id": "Q151",
+    "course_id": "CHM101",
+    "question": "The most acidic hydrohalic acid is:",
+    "options": [
+      "A) HF",
+      "B) HCl",
+      "C) HBr",
+      "D) HI"
+    ],
+    "correct_answer": "D) HI"
+  },
+  {
+    "id": "Q152",
+    "course_id": "CHM101",
+    "question": "For oxoacids, more O atoms around the central atom leads to:",
+    "options": [
+      "A) Decreased acidity",
+      "B) Increased acidity",
+      "C) No change in acidity",
+      "D) Basic character"
+    ],
+    "correct_answer": "B) Increased acidity"
+  },
+  {
+    "id": "Q153",
+    "course_id": "CHM101",
+    "question": "Electronegative O atoms in oxoacids:",
+    "options": [
+      "A) Donate electrons to the central atom",
+      "B) Pull electron density away from the central atom",
+      "C) Have no effect on acidity",
+      "D) Make the compound basic"
+    ],
+    "correct_answer": "B) Pull electron density away from the central atom"
+  },
+  {
+    "id": "Q154",
+    "course_id": "CHM101",
+    "question": "The oxidation number of Cl in HClO4 is:",
+    "options": [
+      "A) +1",
+      "B) +3",
+      "C) +5",
+      "D) +7"
+    ],
+    "correct_answer": "D) +7"
+  },
+  {
+    "id": "Q155",
+    "course_id": "CHM101",
+    "question": "The oxidation number of Cl in HOCl is:",
+    "options": [
+      "A) +1",
+      "B) +3",
+      "C) +5",
+      "D) +7"
+    ],
+    "correct_answer": "A) +1"
+  },
+  {
+    "id": "Q156",
+    "course_id": "CHM101",
+    "question": "When an acid donates a proton, it becomes its:",
+    "options": [
+      "A) Conjugate acid",
+      "B) Conjugate base",
+      "C) Salt",
+      "D) Neutral form"
+    ],
+    "correct_answer": "B) Conjugate base"
+  },
+  {
+    "id": "Q157",
+    "course_id": "CHM101",
+    "question": "When a base accepts a proton, it becomes its:",
+    "options": [
+      "A) Conjugate base",
+      "B) Conjugate acid",
+      "C) Salt",
+      "D) Neutral form"
+    ],
+    "correct_answer": "B) Conjugate acid"
+  },
+  {
+    "id": "Q158",
+    "course_id": "CHM101",
+    "question": "What is the conjugate base of H2O?",
+    "options": [
+      "A) H3O⁺",
+      "B) OH⁻",
+      "C) H2",
+      "D) O2"
+    ],
+    "correct_answer": "B) OH⁻"
+  },
+  {
+    "id": "Q159",
+    "course_id": "CHM101",
+    "question": "What is the conjugate acid of H2O?",
+    "options": [
+      "A) OH⁻",
+      "B) H3O⁺",
+      "C) H2",
+      "D) O2"
+    ],
+    "correct_answer": "B) H3O⁺"
+  },
+  {
+    "id": "Q160",
+    "course_id": "CHM101",
+    "question": "In the Arrhenius concept, neutralization must occur in:",
+    "options": [
+      "A) Any solvent",
+      "B) Aqueous solution",
+      "C) Organic solvents",
+      "D) Gas phase"
+    ],
+    "correct_answer": "B) Aqueous solution"
+  },
+  {
+    "id": "Q161",
+    "course_id": "CHM101",
+    "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+    "options": [
+      "A) NaOH",
+      "B) KOH",
+      "C) NH3",
+      "D) Ca(OH)2"
+    ],
+    "correct_answer": "C) NH3"
+  },
+  {
+    "id": "Q162",
+    "course_id": "CHM101",
+    "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+    "options": [
+      "A) Water",
+      "B) Non-protonic solvents like SO2",
+      "C) Benzene",
+      "D) Ethanol"
+    ],
+    "correct_answer": "B) Non-protonic solvents like SO2"
+  },
+  {
+    "id": "Q163",
+    "course_id": "CHM101",
+    "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+    "options": [
+      "A) Arrhenius concept only",
+      "B) Bronsted-Lowry concept only",
+      "C) Lewis concept",
+      "D) None of the concepts"
+    ],
+    "correct_answer": "C) Lewis concept"
+  },
+  {
+    "id": "Q164",
+    "course_id": "CHM101",
+    "question": "Who proposed the electron-pair theory of covalent bonding?",
+    "options": [
+      "A) Arrhenius",
+      "B) Bronsted",
+      "C) Lowry",
+      "D) G. N. Lewis"
+    ],
+    "correct_answer": "D) G. N. Lewis"
+  },
+  {
+    "id": "Q165",
+    "course_id": "CHM101",
+    "question": "The Lewis concept is useful for understanding:",
+    "options": [
+      "A) Only proton transfer reactions",
+      "B) Reactions of acidic and basic oxides and other reactions",
+      "C) Only aqueous reactions",
+      "D) Only gas phase reactions"
+    ],
+    "correct_answer": "B) Reactions of acidic and basic oxides and other reactions"
+  },
+  {
+    "id": "Q166",
+    "course_id": "CHM101",
+    "question": "The Lewis concept has not discussed the behavior of:",
+    "options": [
+      "A) BF3",
+      "B) AlCl3",
+      "C) Protonic acids like HCl",
+      "D) SO3"
+    ],
+    "correct_answer": "C) Protonic acids like HCl"
+  },
+  {
+    "id": "Q167",
+    "course_id": "CHM101",
+    "question": "In a neutralization reaction, an acid and base form:",
+    "options": [
+      "A) Only water",
+      "B) Only a salt",
+      "C) Water and a salt",
+      "D) A gas"
+    ],
+    "correct_answer": "C) Water and a salt"
+  },
+  {
+    "id": "Q168",
+    "course_id": "CHM101",
+    "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+    "options": [
+      "A) An acid only",
+      "B) A base only",
+      "C) Water and potassium sulfate",
+      "D) A gas"
+    ],
+    "correct_answer": "C) Water and potassium sulfate"
+  },
+  {
+    "id": "Q169",
+    "course_id": "CHM101",
+    "question": "Anions with ionizable hydrogens are:",
+    "options": [
+      "A) Always acidic",
+      "B) Always basic",
+      "C) Amphiprotic",
+      "D) Neutral"
+    ],
+    "correct_answer": "C) Amphiprotic"
+  },
+  {
+    "id": "Q170",
+    "course_id": "CHM101",
+    "question": "The conjugate base of acetic acid (CH3COOH) is:",
+    "options": [
+      "A) CH3COO⁻",
+      "B) CH3COOH2⁺",
+      "C) CH3OH",
+      "D) CH4"
+    ],
+    "correct_answer": "A) CH3COO⁻"
+  },
+  {
+    "id": "Q171",
+    "course_id": "CHM101",
+    "question": "When CH3COONa dissolves in water, it produces:",
+    "options": [
+      "A) An acidic solution",
+      "B) A basic solution",
+      "C) A neutral solution",
+      "D) A precipitate"
+    ],
+    "correct_answer": "B) A basic solution"
+  },
+  {
+    "id": "Q172",
+    "course_id": "CHM101",
+    "question": "When NH4Cl dissolves in water, the solution is:",
+    "options": [
+      "A) Basic",
+      "B) Neutral",
+      "C) Acidic",
+      "D) Amphoteric"
+    ],
+    "correct_answer": "C) Acidic"
+  },
+  {
+    "id": "Q173",
+    "course_id": "CHM101",
+    "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+    "options": [
+      "A) H⁺ ions",
+      "B) OH⁻ ions",
+      "C) Cl⁻ ions",
+      "D) Na⁺ ions"
+    ],
+    "correct_answer": "B) OH⁻ ions"
+  },
+  {
+    "id": "Q174",
+    "course_id": "CHM101",
+    "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+    "options": [
+      "A) OH⁻ ions",
+      "B) H⁺ ions",
+      "C) Cl⁻ ions",
+      "D) Na⁺ ions"
+    ],
+    "correct_answer": "B) H⁺ ions"
+  },
+  {
+    "id": "Q175",
+    "course_id": "CHM101",
+    "question": "Acetic acid (CH3COOH) is classified as:",
+    "options": [
+      "A) A strong acid",
+      "B) A weak acid",
+      "C) A strong base",
+      "D) A weak base"
+    ],
+    "correct_answer": "B) A weak acid"
+  },
+  {
+    "id": "Q176",
+    "course_id": "CHM101",
+    "question": "Ammonium hydroxide (NH4OH) is classified as:",
+    "options": [
+      "A) A strong acid",
+      "B) A strong base",
+      "C) A weak base",
+      "D) A weak acid"
+    ],
+    "correct_answer": "C) A weak base"
+  },
+  {
+    "id": "Q177",
+    "course_id": "CHM101",
+    "question": "The degree of hydrolysis for salts of weak acid and weak base is:",
+    "options": [
+      "A) Dependent on concentration",
+      "B) Independent of concentration",
+      "C) Always zero",
+      "D) Always 100%"
+    ],
+    "correct_answer": "B) Independent of concentration"
+  },
+  {
+    "id": "Q178",
+    "course_id": "CHM101",
+    "question": "Hg2Cl2 is a chloride salt that is:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Slightly soluble",
+      "D) Highly soluble"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q179",
+    "course_id": "CHM101",
+    "question": "PbCl2 is:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Highly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q180",
+    "course_id": "CHM101",
+    "question": "CaSO4 is:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Highly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q181",
+    "course_id": "CHM101",
+    "question": "Ag2SO4 is:",
+    "options": [
+      "A) Soluble",
+      "B) Insoluble",
+      "C) Highly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Insoluble"
+  },
+  {
+    "id": "Q182",
+    "course_id": "CHM101",
+    "question": "K2CO3 is:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Slightly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q183",
+    "course_id": "CHM101",
+    "question": "(NH4)2CO3 is:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Slightly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q184",
+    "course_id": "CHM101",
+    "question": "Pb(CH3COO)2 is:",
+    "options": [
+      "A) Insoluble",
+      "B) Soluble",
+      "C) Slightly soluble",
+      "D) Volatile"
+    ],
+    "correct_answer": "B) Soluble"
+  },
+  {
+    "id": "Q185",
+    "course_id": "CHM101",
+    "question": "In a chemical equation, what does the arrow (→) represent?",
+    "options": [
+      "A) Equality",
+      "B) Direction of reaction",
+      "C) Reversibility",
+      "D) Equilibrium"
+    ],
+    "correct_answer": "B) Direction of reaction"
+  },
+  {
+    "id": "Q186",
+    "course_id": "CHM101",
+    "question": "The abbreviation (aq) in a chemical equation stands for:",
+    "options": [
+      "A) Aquatic",
+      "B) Aqueous",
+      "C) Aquifer",
+      "D) Aquarium"
+    ],
+    "correct_answer": "B) Aqueous"
+  },
+  {
+    "id": "Q187",
+    "course_id": "CHM101",
+    "question": "In stoichiometry calculations, the first step is usually to:",
+    "options": [
+      "A) Calculate theoretical yield",
+      "B) Balance the equation",
+      "C) Find the limiting reactant",
+      "D) Calculate percent yield"
+    ],
+    "correct_answer": "B) Balance the equation"
+  },
+  {
+    "id": "Q188",
+    "course_id": "CHM101",
+    "question": "Molar mass has units of:",
+    "options": [
+      "A) g",
+      "B) mol",
+      "C) g/mol",
+      "D) mol/g"
+    ],
+    "correct_answer": "C) g/mol"
+  },
+  {
+    "id": "Q189",
+    "course_id": "CHM101",
+    "question": "If you have 2 moles of a substance with molar mass 50 g/mol, the mass is:",
+    "options": [
+      "A) 25 g",
+      "B) 50 g",
+      "C) 100 g",
+      "D) 200 g"
+    ],
+    "correct_answer": "C) 100 g"
+  },
+  {
+    "id": "Q190",
+    "course_id": "CHM101",
+    "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+    "options": [
+      "A) 2 moles",
+      "B) 5 moles",
+      "C) 10 moles",
+      "D) 18 moles"
+    ],
+    "correct_answer": "B) 5 moles"
+  },
+  {
+    "id": "Q191",
+    "course_id": "CHM101",
+    "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+    "options": [
+      "A) 8 moles",
+      "B) 16 moles",
+      "C) 18 moles",
+      "D) 25 moles"
+    ],
+    "correct_answer": "B) 16 moles"
+  },
+  {
+    "id": "Q192",
+    "course_id": "CHM101",
+    "question": "Which property is NOT typically associated with salts?",
+    "options": [
+      "A) Ionic bonding",
+      "B) High melting points",
+      "C) Conduct electricity when dissolved",
+      "D) Covalent bonding exclusively"
+    ],
+    "correct_answer": "D) Covalent bonding exclusively"
+  },
+  {
+    "id": "Q193",
+    "course_id": "CHM101",
+    "question": "The main mineral constituent of seawater is:",
+    "options": [
+      "A) KCl",
+      "B) NaCl",
+      "C) MgCl2",
+      "D) CaCl2"
+    ],
+    "correct_answer": "B) NaCl"
+  },
+  {
+    "id": "Q194",
+    "course_id": "CHM101",
+    "question": "When a salt solution conducts electricity, it is because:",
+    "options": [
+      "A) The salt is metallic",
+      "B) Free ions are present",
+      "C) The water is pure",
+      "D) The salt is covalent"
+    ],
+    "correct_answer": "B) Free ions are present"
+  },
+  {
+    "id": "Q195",
+    "course_id": "CHM101",
+    "question": "The taste sensation associated with table salt is:",
+    "options": [
+      "A) Sweet",
+      "B) Sour",
+      "C) Salty",
+      "D) Bitter"
+    ],
+    "correct_answer": "C) Salty"
+  },
+  {
+    "id": "Q196",
+    "course_id": "CHM101",
+    "question": "Pure NaCl typically has what odour?",
+    "options": [
+      "A) Pungent",
+      "B) Sweet",
+      "C) Acrid",
+      "D) Odourless"
+    ],
+    "correct_answer": "D) Odourless"
+  },
+  {
+    "id": "Q197",
+    "course_id": "CHM101",
+    "question": "KH2PO4 is an example of:",
+    "options": [
+      "A) A basic salt",
+      "B) An acidic salt",
+      "C) A neutral salt",
+      "D) A double salt"
+    ],
+    "correct_answer": "B) An acidic salt"
+  },
+  {
+    "id": "Q198",
+    "course_id": "CHM101",
+    "question": "CuSO4 is classified as:",
+    "options": [
+      "A) A basic salt",
+      "B) An acidic salt",
+      "C) A neutral salt",
+      "D) A mixed salt"
+    ],
+    "correct_answer": "B) An acidic salt"
+  },
+  {
+    "id": "Q199",
+    "course_id": "CHM101",
+    "question": "CH3COONa is a salt of:",
+    "options": [
+      "A) A strong acid (HCl) and weak base (NH3)",
+      "B) A weak acid (CH3COOH) and strong base (NaOH)",
+      "C) A strong acid and strong base",
+      "D) A weak acid and weak base"
+    ],
+    "correct_answer": "B) A weak acid (CH3COOH) and strong base (NaOH)"
+  },
+  {
+    "id": "Q200",
+    "course_id": "CHM101",
+    "question": "The law of conservation of mass states that in a chemical reaction:",
+    "options": [
+      "A) Energy is created",
+      "B) Mass is destroyed",
+      "C) Mass is neither created nor destroyed",
+      "D) Atoms change identity"
+    ],
+    "correct_answer": "C) Mass is neither created nor destroyed"
+  }
+]
