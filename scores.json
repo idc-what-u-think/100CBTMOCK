@@ -14662,5 +14662,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769954915802",
+    "user_name": "Abdulhamid",
+    "department": "Computer",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 39,
+    "total": 50,
+    "timestamp": "2026-02-01T14:48:18.558Z",
+    "results": [
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "B) Potassium sodium tartrate",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+        "userAnswer": "B) 80%",
+        "correctAnswer": "B) 80%",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "In a balanced chemical equation, the number of atoms of each type on the reactant side:",
+        "userAnswer": "C) Equals the number on the product side",
+        "correctAnswer": "C) Equals the number on the product side",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "C) Lewis concept",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept has not discussed the behavior of:",
+        "userAnswer": "C) Protonic acids like HCl",
+        "correctAnswer": "C) Protonic acids like HCl",
+        "isCorrect": true
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "All ammonium salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "B) Sour",
+        "correctAnswer": "C) Salty",
+        "isCorrect": false
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "D) Covalent bonding exclusively",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": true
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "A) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "The products of complete combustion of a hydrocarbon are:",
+        "userAnswer": "D) CO2 and H2",
+        "correctAnswer": "B) CO2 and H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the acid?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "D) NH4Cl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Basic salts hydrolyze to form:",
+        "userAnswer": "A) An acidic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "C) Neutral",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "A) A species with unshared electron pairs available for sharing",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": true
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "B) Weak acid and weak base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "C) Na2S",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": true
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "B) Ionizable H⁺ along with another cation",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "D) +7",
+        "correctAnswer": "D) +7",
+        "isCorrect": true
+      },
+      {
+        "question": "Formula stoichiometry refers to:",
+        "userAnswer": "B) Proportions of elements in a compound",
+        "correctAnswer": "B) Proportions of elements in a compound",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of ClO2 to H2O is:",
+        "userAnswer": "B) 2:1",
+        "correctAnswer": "B) 2:1",
+        "isCorrect": true
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "D) All are equally general",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "B) O²⁻",
+        "correctAnswer": "C) SO3",
+        "isCorrect": false
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "CaOCl2 is an example of:",
+        "userAnswer": "A) An acidic salt",
+        "correctAnswer": "C) A mixed salt",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "B) Bond strength",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of strong acid and weak base are:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "B) Basic",
+        "correctAnswer": "B) Basic",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "C) A neutral salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      }
+    ]
   }
 ]
