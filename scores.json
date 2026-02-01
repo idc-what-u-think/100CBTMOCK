@@ -6862,5 +6862,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769986052413",
+    "user_name": "Femibello Mark",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 30,
+    "total": 50,
+    "timestamp": "2026-02-01T23:10:05.500Z",
+    "results": [
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "B) Two species that differ by a proton",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "B) BaCO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+        "userAnswer": "C) Ions as well as molecules",
+        "correctAnswer": "C) Ions as well as molecules",
+        "isCorrect": true
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "A) Weaker the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": false
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "A) NH4⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "C) Donates a proton",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "C) Reaction stoichiometry",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "All ethanoate (acetate) salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "C) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+        "userAnswer": "B) Electronegativity",
+        "correctAnswer": "B) Electronegativity",
+        "isCorrect": true
+      },
+      {
+        "question": "In a balanced chemical equation, the number of atoms of each type on the reactant side:",
+        "userAnswer": "C) Equals the number on the product side",
+        "correctAnswer": "C) Equals the number on the product side",
+        "isCorrect": true
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "A double salt contains:",
+        "userAnswer": "B) Only one anion",
+        "correctAnswer": "C) More than one cation or anion",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": true
+      },
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "B) KCl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "B) Any solvent or no solvent",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": true
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "C) Completely dissociates in solution",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": true
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Basic salts hydrolyze to form:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is a salt of:",
+        "userAnswer": "B) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "B) Ions",
+        "correctAnswer": "B) Ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In hydrolysis, the constituent products are:",
+        "userAnswer": "D) Precipitates only",
+        "correctAnswer": "B) Acid and base",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "A) A proton donor",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "D) NH4⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and weak base are:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 5A(15), which is the stronger acid?",
+        "userAnswer": "B) H3PO4",
+        "correctAnswer": "B) H3PO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "B) K2SO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "C) HI",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "B) A reduction reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": false
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "A) NH2⁻",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "A) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "A) Solution",
+        "correctAnswer": "C) Solid",
+        "isCorrect": false
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "B) Coefficients before formulas",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "D) Cannot be determined",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "B) The reaction of salt with water",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      }
+    ]
   }
 ]
