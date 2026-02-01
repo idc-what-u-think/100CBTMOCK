@@ -364,5 +364,11 @@
     "name": "Mubarak",
     "password": "TXViYXJhazIwMDc=",
     "department": "Food"
+  },
+  {
+    "id": "1769958327649",
+    "name": "Popoola Muaadh Opeyemi",
+    "password": "TXV6YWkyMDA3MDY=",
+    "department": "Chemical"
   }
 ]
