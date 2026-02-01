@@ -334,5 +334,11 @@
     "name": "Wisdom",
     "password": "d2lzZXdpc2RvbTEyMw==",
     "department": "Water"
+  },
+  {
+    "id": "1769957911152",
+    "name": "Junior",
+    "password": "anVuaXg=",
+    "department": "Chemical"
   }
 ]
