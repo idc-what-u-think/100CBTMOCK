@@ -46,5 +46,11 @@
     "name": "Amin",
     "password": "MTIzNDU=",
     "department": "Civil"
+  },
+  {
+    "id": "1769949966734",
+    "name": "Abdulazeez",
+    "password": "YXplZXphdDE4",
+    "department": "Chemical"
   }
 ]
