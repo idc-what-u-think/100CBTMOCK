@@ -598,5 +598,11 @@
     "name": "Sodiq",
     "password": "T2xhbWlsZWthbjAyODE=",
     "department": "Agric"
+  },
+  {
+    "id": "1769977258298",
+    "name": "Goodness",
+    "password": "T2cvZmxleDQ=",
+    "department": "Water"
   }
 ]
