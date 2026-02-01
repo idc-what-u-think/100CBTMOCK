@@ -466,5 +466,11 @@
     "name": "Sharp",
     "password": "U2hhcnAyMDA5",
     "department": "Mechanical"
+  },
+  {
+    "id": "1769966109271",
+    "name": "Ikagu",
+    "password": "aWthZ3U=",
+    "department": "Chemical"
   }
 ]
