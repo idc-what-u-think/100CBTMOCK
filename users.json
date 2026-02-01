@@ -556,5 +556,11 @@
     "name": "Magnus",
     "password": "WXVzdWYyMDA4",
     "department": "Civil"
+  },
+  {
+    "id": "1769974897279",
+    "name": "Abubakar Habeeb",
+    "password": "dGltaWxleWluMDE=",
+    "department": "Chemical"
   }
 ]
