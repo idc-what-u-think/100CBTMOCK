@@ -29326,5 +29326,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769967861697",
+    "user_name": "David",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 47,
+    "total": 50,
+    "timestamp": "2026-02-01T18:06:03.016Z",
+    "results": [
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "C) AlCl3",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": true
+      },
+      {
+        "question": "PbCl2 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "C) A Lewis acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "A) Fluorine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, what does the arrow (→) represent?",
+        "userAnswer": "B) Direction of reaction",
+        "correctAnswer": "B) Direction of reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "A) Arrhenius acids",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": true
+      },
+      {
+        "question": "The products of complete combustion of a hydrocarbon are:",
+        "userAnswer": "B) CO2 and H2O",
+        "correctAnswer": "B) CO2 and H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "B) There is more than required by stoichiometry",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "B) Coefficients before formulas",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "B) OH⁻ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "A) Weaker the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "B) Bond strength",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (aq) in a chemical equation stands for:",
+        "userAnswer": "B) Aqueous",
+        "correctAnswer": "B) Aqueous",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing electronegativity of central atom",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": true
+      },
+      {
+        "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+        "userAnswer": "B) 16 moles",
+        "correctAnswer": "B) 16 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "B) A Lewis acid",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "C) Lewis theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Anions with ionizable hydrogens are:",
+        "userAnswer": "C) Amphiprotic",
+        "correctAnswer": "C) Amphiprotic",
+        "isCorrect": true
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "B) An acidic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "D) HI",
+        "correctAnswer": "D) HI",
+        "isCorrect": true
+      },
+      {
+        "question": "To be acidic in the Lewis sense, a molecule must be:",
+        "userAnswer": "B) Electron deficient",
+        "correctAnswer": "B) Electron deficient",
+        "isCorrect": true
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "B) Conjugate acid",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "B) H3O⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "B) 18.02 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "D) Odourless",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": true
+      }
+    ]
   }
 ]
