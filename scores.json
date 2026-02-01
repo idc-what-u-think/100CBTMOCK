@@ -9982,5 +9982,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769950079727",
+    "user_name": "Amin",
+    "department": "Civil",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 34,
+    "total": 50,
+    "timestamp": "2026-02-01T13:58:02.243Z",
+    "results": [
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "D) HF",
+        "correctAnswer": "D) HF",
+        "isCorrect": true
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+        "userAnswer": "C) Water and potassium sulfate",
+        "correctAnswer": "C) Water and potassium sulfate",
+        "isCorrect": true
+      },
+      {
+        "question": "Acetic acid (CH3COOH) is classified as:",
+        "userAnswer": "B) A weak acid",
+        "correctAnswer": "B) A weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "A) NaHSO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "A) HOCl > HOClO2 > HOClO3 > HClO4",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "B) There is more than required by stoichiometry",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "B) Balance the equation",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "B) 3:5",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "A) SO3",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "A) 1 mole",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "A) A base",
+        "correctAnswer": "B) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "A) The law of definite proportions",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": false
+      },
+      {
+        "question": "In a neutralization reaction, an acid and base form:",
+        "userAnswer": "C) Water and a salt",
+        "correctAnswer": "C) Water and a salt",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 5A(15), which is the stronger acid?",
+        "userAnswer": "B) H3PO4",
+        "correctAnswer": "B) H3PO4",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "B) An electron pair acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of NH4⁺?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "A basic or alkali salt is formed by partial neutralization of:",
+        "userAnswer": "D) A strong acid by a weak base",
+        "correctAnswer": "C) A strong base by a weak acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "B) Gas",
+        "correctAnswer": "B) Gas",
+        "isCorrect": true
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "D) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "D) Accepts a proton",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "B) A Lewis acid",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "C) Donates a proton",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Formula stoichiometry refers to:",
+        "userAnswer": "A) Proportions of reactants and products",
+        "correctAnswer": "B) Proportions of elements in a compound",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "B) Conjugate acid",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "Basic salts hydrolyze to form:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      }
+    ]
   }
 ]
