@@ -688,5 +688,11 @@
     "name": "Active renold",
     "password": "b2xhZGFwbzc5",
     "department": "Civil"
+  },
+  {
+    "id": "1769990168963",
+    "name": "Bookish",
+    "password": "MTIzNDU2",
+    "department": "Electrical"
   }
 ]
