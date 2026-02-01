@@ -16222,5 +16222,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769954915802",
+    "user_name": "Abdulhamid",
+    "department": "Computer",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 46,
+    "total": 50,
+    "timestamp": "2026-02-01T15:06:12.351Z",
+    "results": [
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "B) The reaction of salt with water",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": true
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "In a balanced chemical equation, the number of atoms of each type on the reactant side:",
+        "userAnswer": "C) Equals the number on the product side",
+        "correctAnswer": "C) Equals the number on the product side",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "C) KOH",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": false
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "B) Does not dissociate in solution",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": false
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "B) 2 moles",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of ClO2 to H2O is:",
+        "userAnswer": "B) 2:1",
+        "correctAnswer": "B) 2:1",
+        "isCorrect": true
+      },
+      {
+        "question": "A mixed salt consists of:",
+        "userAnswer": "B) A fixed proportion of two salts",
+        "correctAnswer": "B) A fixed proportion of two salts",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "C) Solid",
+        "correctAnswer": "C) Solid",
+        "isCorrect": true
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "B) Potassium sodium tartrate",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "Formula stoichiometry refers to:",
+        "userAnswer": "B) Proportions of elements in a compound",
+        "correctAnswer": "B) Proportions of elements in a compound",
+        "isCorrect": true
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "C) BaSO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "B) Acid-base reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "C) The amount of product actually obtained in the lab",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "C) Neutral",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": true
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Electronegative O atoms in oxoacids:",
+        "userAnswer": "B) Pull electron density away from the central atom",
+        "correctAnswer": "B) Pull electron density away from the central atom",
+        "isCorrect": true
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "A) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "B) An acid",
+        "correctAnswer": "B) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "B) Accepts an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "C) Lewis concept",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "B) H3O⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "B) Any solvent or no solvent",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is an example of:",
+        "userAnswer": "C) A salt",
+        "correctAnswer": "C) A salt",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Which Lead(II) salt is soluble?",
+        "userAnswer": "C) Pb(NO3)2",
+        "correctAnswer": "C) Pb(NO3)2",
+        "isCorrect": true
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an acidic salt?",
+        "userAnswer": "C) NaHSO4",
+        "correctAnswer": "C) NaHSO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+        "userAnswer": "C) Water and potassium sulfate",
+        "correctAnswer": "C) Water and potassium sulfate",
+        "isCorrect": true
+      },
+      {
+        "question": "A double salt contains:",
+        "userAnswer": "C) More than one cation or anion",
+        "correctAnswer": "C) More than one cation or anion",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "C) Less than 7",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "A) H⁺ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "B) Weak acid and weak base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and weak base can be:",
+        "userAnswer": "C) Only neutral",
+        "correctAnswer": "D) Acidic, basic, or neutral",
+        "isCorrect": false
+      }
+    ]
   }
 ]
