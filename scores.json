@@ -1870,5 +1870,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769950142907",
+    "user_name": "Hîrãkõ Shînjī",
+    "department": "Mechanical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 19,
+    "total": 50,
+    "timestamp": "2026-02-01T13:01:29.631Z",
+    "results": [
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "A) Accepts an electron pair",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "C) Usually less than 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": true
+      },
+      {
+        "question": "Potash Alum has the formula:",
+        "userAnswer": "A) KCl",
+        "correctAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts are obtained along with water in:",
+        "userAnswer": "C) Neutralization reactions",
+        "correctAnswer": "C) Neutralization reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "A) Cl⁻",
+        "correctAnswer": "C) H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "A basic or alkali salt is formed by partial neutralization of:",
+        "userAnswer": "D) A strong acid by a weak base",
+        "correctAnswer": "C) A strong base by a weak acid",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "C) Donates a proton",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "A) SO3",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "D) HNO3",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "A) Decreasing electronegativity of central atom",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "C) SO3",
+        "correctAnswer": "C) SO3",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "B) 3:5",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": true
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "B) Coefficients before formulas",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In hydrolysis, the constituent products are:",
+        "userAnswer": "A) Water and heat",
+        "correctAnswer": "B) Acid and base",
+        "isCorrect": false
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "A mixed salt consists of:",
+        "userAnswer": "C) Acids and bases mixed",
+        "correctAnswer": "B) A fixed proportion of two salts",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "D) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "A) Two species that differ by a neutron",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "A) Electron transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "D) Arrhenius bases",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": false
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "B) BaCO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "B) An acid",
+        "correctAnswer": "B) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "A) The heating of salt",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "C) Organic solvents only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "D) An electron pair donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "A) NaHSO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "B) Acid-base reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "C) They are equal",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "D) Iodine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": false
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "C) KOH",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is an acidic salt?",
+        "userAnswer": "B) Na2CO3",
+        "correctAnswer": "C) NaHSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "All ethanoate (acetate) salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "D) Both BF3 and NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "C) Greater than 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "What is an acidic salt?",
+        "userAnswer": "A) A salt formed by complete neutralization",
+        "correctAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Which Lead(II) salt is soluble?",
+        "userAnswer": "C) Pb(NO3)2",
+        "correctAnswer": "C) Pb(NO3)2",
+        "isCorrect": true
+      }
+    ]
   }
 ]
