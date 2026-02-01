@@ -124,5 +124,11 @@
     "name": "Olaore",
     "password": "bWF0YW5kbWV0MDAx",
     "department": "Material"
+  },
+  {
+    "id": "1769950411191",
+    "name": "Hafeezat",
+    "password": "bW9qaXJheW8=",
+    "department": "Chemical"
   }
 ]
