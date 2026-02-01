@@ -382,5 +382,11 @@
     "name": "faith",
     "password": "bGVhdmU=",
     "department": "Material"
+  },
+  {
+    "id": "1769959165558",
+    "name": "Adebayo",
+    "password": "QWRlYmF5bw==",
+    "department": "Electrical"
   }
 ]
