@@ -166,5 +166,11 @@
     "name": "Tomiwa",
     "password": "dG9taXdh",
     "department": "Water"
+  },
+  {
+    "id": "1769951014384",
+    "name": "Salaudeen Azeez",
+    "password": "U2FsYXVkZWVu",
+    "department": "Water"
   }
 ]
