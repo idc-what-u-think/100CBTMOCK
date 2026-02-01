@@ -346,5 +346,11 @@
     "name": "Kajola",
     "password": "YWJhc3M=",
     "department": "Biomedical"
+  },
+  {
+    "id": "1769958202784",
+    "name": "Mub",
+    "password": "TWliYXJhazIwMDc=",
+    "department": "Food"
   }
 ]
