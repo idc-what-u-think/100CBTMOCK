@@ -1246,5 +1246,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769975687528",
+    "user_name": "Idris",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 22,
+    "total": 50,
+    "timestamp": "2026-02-01T20:54:15.370Z",
+    "results": [
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "A) Temperature only",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": false
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "B) Coefficients before formulas",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": true
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "C) The law of multiple proportions",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": false
+      },
+      {
+        "question": "CaOCl2 is an example of:",
+        "userAnswer": "B) A basic salt",
+        "correctAnswer": "C) A mixed salt",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "A) A Lewis base",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "A) Accepts an electron pair",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "A) OH⁻ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "A) Cl⁻",
+        "correctAnswer": "C) H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "A) Aqueous solutions only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "D) Cannot be determined",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "C) Remains constant",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "A) A proton donor",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "D) All are equally general",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "D) Any compound containing sodium",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "D) An electron pair donor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": false
+      },
+      {
+        "question": "A mixed salt consists of:",
+        "userAnswer": "A) Only one type of salt",
+        "correctAnswer": "B) A fixed proportion of two salts",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "B) Density",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "A) A species with unshared electron pairs available for sharing",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "B) 2 moles",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "B) NH4Cl",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "D) Amphoteric",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "All ammonium salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "B) There is more than required by stoichiometry",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "B) K2SO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "D) Insoluble",
+        "correctAnswer": "B) Basic",
+        "isCorrect": false
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "D) A strong acid",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": false
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "C) Incomplete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "B) Some acid salts",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "D) Sodium carbonate",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "D) Cannot be determined",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "A) Donates an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is an acidic salt?",
+        "userAnswer": "D) KOH",
+        "correctAnswer": "C) NaHSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "C) The amount of product actually obtained in the lab",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": true
+      }
+    ]
   }
 ]
