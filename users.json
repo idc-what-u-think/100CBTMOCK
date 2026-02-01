@@ -640,5 +640,11 @@
     "name": "Abdul",
     "password": "MTIzNDU2Nzg5",
     "department": "Mechanical"
+  },
+  {
+    "id": "1769983434733",
+    "name": "Smart",
+    "password": "c21hcnQyMDA5",
+    "department": "Chemical"
   }
 ]
