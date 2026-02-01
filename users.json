@@ -550,5 +550,11 @@
     "name": "Teslim",
     "password": "VGFzbGltLnZvbQ==",
     "department": "Chemical"
+  },
+  {
+    "id": "1769974797884",
+    "name": "Magnus",
+    "password": "WXVzdWYyMDA4",
+    "department": "Civil"
   }
 ]
