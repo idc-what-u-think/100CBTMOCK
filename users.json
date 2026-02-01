@@ -580,5 +580,11 @@
     "name": "Ola",
     "password": "c21hbGwgcm9uYWxkbw==",
     "department": "Water"
+  },
+  {
+    "id": "1769976546239",
+    "name": "Opemiposi olowa",
+    "password": "cmFzYmVycnk0NDU=",
+    "department": "Computer"
   }
 ]
