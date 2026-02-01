@@ -26206,5 +26206,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769966110382",
+    "user_name": "Ikagu",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 33,
+    "total": 50,
+    "timestamp": "2026-02-01T17:26:36.359Z",
+    "results": [
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "C) Ionization energy",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "B) 18.02 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "B) Ka and Kb values",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "B) Accepts an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": true
+      },
+      {
+        "question": "As the X-H bond becomes longer and weaker down a group:",
+        "userAnswer": "B) Acid strength increases",
+        "correctAnswer": "B) Acid strength increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "D) Iodine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": false
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "A) No ionizable ions",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+        "userAnswer": "A) Only molecules",
+        "correctAnswer": "C) Ions as well as molecules",
+        "isCorrect": false
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "C) Solid",
+        "correctAnswer": "C) Solid",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "A) It is the limiting reactant",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "A) HOCl",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "In balancing equations, what can be changed?",
+        "userAnswer": "B) Coefficients before formulas",
+        "correctAnswer": "B) Coefficients before formulas",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "C) AlCl3",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction HCl + NH3 → NH4Cl in benzene involves:",
+        "userAnswer": "A) Ionization of HCl",
+        "correctAnswer": "B) No ionization of reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "B) Na⁺",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 5A(15), which is the stronger acid?",
+        "userAnswer": "C) They are equal",
+        "correctAnswer": "B) H3PO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Electronegative O atoms in oxoacids:",
+        "userAnswer": "C) Have no effect on acidity",
+        "correctAnswer": "B) Pull electron density away from the central atom",
+        "isCorrect": false
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "D) A strong base",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "A) Conjugate acid",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Arrhenius concept?",
+        "userAnswer": "B) It explains all acid-base reactions",
+        "correctAnswer": "A) It requires the presence of water",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "D) +7",
+        "correctAnswer": "D) +7",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "C) Usually less than 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "B) Gas",
+        "correctAnswer": "B) Gas",
+        "isCorrect": true
+      },
+      {
+        "question": "A basic or alkali salt is formed by partial neutralization of:",
+        "userAnswer": "C) A strong base by a weak acid",
+        "correctAnswer": "C) A strong base by a weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "B) The reaction of salt with water",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": true
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "A) Arrhenius theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "To maximize conversion of a given reactant, other reactants should be:",
+        "userAnswer": "A) In limiting amounts",
+        "correctAnswer": "B) In stoichiometric excess",
+        "isCorrect": false
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "C) Incomplete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "A) A base",
+        "correctAnswer": "B) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (aq) in a chemical equation stands for:",
+        "userAnswer": "B) Aqueous",
+        "correctAnswer": "B) Aqueous",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "C) Greater than 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      }
+    ]
   }
 ]
