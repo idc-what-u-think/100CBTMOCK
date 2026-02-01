@@ -388,5 +388,11 @@
     "name": "Adebayo",
     "password": "QWRlYmF5bw==",
     "department": "Electrical"
+  },
+  {
+    "id": "1769960606639",
+    "name": "Muraina Abdullah",
+    "password": "d2xsZW4gd2VsbHM=",
+    "department": "Computer"
   }
 ]
