@@ -172,5 +172,11 @@
     "name": "Salaudeen Azeez",
     "password": "U2FsYXVkZWVu",
     "department": "Water"
+  },
+  {
+    "id": "1769951063024",
+    "name": "Bukola",
+    "password": "YnVrb2xhIGF0IDE1",
+    "department": "Chemical"
   }
 ]
