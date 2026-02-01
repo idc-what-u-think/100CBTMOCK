@@ -658,5 +658,11 @@
     "name": "Tom",
     "password": "ZWJlbg==",
     "department": "Civil"
+  },
+  {
+    "id": "1769984310515",
+    "name": "Abubakar Taofeek-Usman",
+    "password": "d2l0dHkyMDA5a2lk",
+    "department": "Computer"
   }
 ]
