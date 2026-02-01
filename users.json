@@ -256,5 +256,11 @@
     "name": "Berry",
     "password": "QmVycnk=",
     "department": "Agric"
+  },
+  {
+    "id": "1769953680567",
+    "name": "Bonuola Teslim",
+    "password": "Ym9udW9scw==",
+    "department": "Water"
   }
 ]
