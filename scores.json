@@ -8422,5 +8422,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769952592223",
+    "user_name": "Princess Omoshalewa",
+    "department": "Computer",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 19,
+    "total": 50,
+    "timestamp": "2026-02-01T13:44:39.815Z",
+    "results": [
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "B) A base",
+        "isCorrect": false
+      },
+      {
+        "question": "In a neutralization reaction, an acid and base form:",
+        "userAnswer": "C) Water and a salt",
+        "correctAnswer": "C) Water and a salt",
+        "isCorrect": true
+      },
+      {
+        "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+        "userAnswer": "A) 125%",
+        "correctAnswer": "B) 80%",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "C) Greater than 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "B) Bronsted-Lowry theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": false
+      },
+      {
+        "question": "Potash Alum has the formula:",
+        "userAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "correctAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "A) Reactants",
+        "correctAnswer": "B) Products",
+        "isCorrect": false
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "D) Arrhenius bases",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "A) Electronegativity",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": false
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+        "userAnswer": "B) 16 moles",
+        "correctAnswer": "B) 16 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is an example of:",
+        "userAnswer": "D) A neutral oxide",
+        "correctAnswer": "C) A salt",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate base of NH4⁺?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "B) Bronsted-Lowry concept only",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids, more O atoms around the central atom leads to:",
+        "userAnswer": "C) No change in acidity",
+        "correctAnswer": "B) Increased acidity",
+        "isCorrect": false
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "C) Highly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "C) A neutral species",
+        "correctAnswer": "A) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Acetic acid (CH3COOH) is classified as:",
+        "userAnswer": "C) A strong base",
+        "correctAnswer": "B) A weak acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "D) KH2PO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "A) 35.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The conjugate base of acetic acid (CH3COOH) is:",
+        "userAnswer": "B) CH3COOH2⁺",
+        "correctAnswer": "A) CH3COO⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "C) A neutral salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "B) OH⁻ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "A) Donates an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "C) Completely dissociates in solution",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "C) H2",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "C) H2SO4",
+        "correctAnswer": "B) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "B) HI > HBr > HCl > HF",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": true
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "C) MgCl2",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": false
+      },
+      {
+        "question": "PbCl2 is:",
+        "userAnswer": "C) Highly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Ammonium hydroxide (NH4OH) is classified as:",
+        "userAnswer": "A) A strong acid",
+        "correctAnswer": "C) A weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "A) Avogadro's number",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "C) The amount of product actually obtained in the lab",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "A) The central nonmetal",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "D) Amphoteric",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "C) Organic compounds",
+        "correctAnswer": "B) Ions",
+        "isCorrect": false
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "A) Calculate theoretical yield",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": false
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "B) 68.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "C) Solid",
+        "correctAnswer": "C) Solid",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, what does the arrow (→) represent?",
+        "userAnswer": "B) Direction of reaction",
+        "correctAnswer": "B) Direction of reaction",
+        "isCorrect": true
+      }
+    ]
   }
 ]
