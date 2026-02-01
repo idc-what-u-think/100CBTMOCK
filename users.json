@@ -40,5 +40,11 @@
     "name": "Abdulqudus Ismail",
     "password": "MTExMTE=",
     "department": "Chemical"
+  },
+  {
+    "id": "1769950079727",
+    "name": "Amin",
+    "password": "MTIzNDU=",
+    "department": "Civil"
   }
 ]
