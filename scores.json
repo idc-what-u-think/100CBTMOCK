@@ -1,0 +1,314 @@
+[
+  {
+    "user_id": "1769948649123",
+    "user_name": "ff",
+    "department": "Agric",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 1,
+    "total": 50,
+    "timestamp": "2026-02-01T12:36:55.791Z",
+    "results": [
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 2 moles of a substance with molar mass 50 g/mol, the mass is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) 100 g",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": false
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": false
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": false
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "A) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": false
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Which Lead(II) salt is soluble?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Pb(NO3)2",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "D) +7",
+        "isCorrect": false
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "CaSO4 is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids, more O atoms around the central atom leads to:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Increased acidity",
+        "isCorrect": false
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Ions",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Water and potassium sulfate",
+        "isCorrect": false
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": false
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": false
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": false
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "A) +1",
+        "isCorrect": false
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "C) Solid",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group in the periodic table, electronegativity:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Decreases",
+        "isCorrect": false
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": false
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lewis concept is useful for understanding:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) Basic",
+        "isCorrect": false
+      },
+      {
+        "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) 80%",
+        "isCorrect": false
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "Not answered",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": false
+      }
+    ]
+  }
+]
