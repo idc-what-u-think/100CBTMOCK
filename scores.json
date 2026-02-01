@@ -7798,5 +7798,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769951839031",
+    "user_name": "Khadijah",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 25,
+    "total": 50,
+    "timestamp": "2026-02-01T13:39:52.361Z",
+    "results": [
+      {
+        "question": "In the Arrhenius concept, neutralization must occur in:",
+        "userAnswer": "B) Aqueous solution",
+        "correctAnswer": "B) Aqueous solution",
+        "isCorrect": true
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength down a group for nonmetal hydrides?",
+        "userAnswer": "D) Electron affinity",
+        "correctAnswer": "B) Bond strength",
+        "isCorrect": false
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "D) H2O(l) → H⁺(aq) + OH⁻(aq)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": false
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "B) Neutral",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "C) Completely dissociates in solution",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": true
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "B) A Lewis acid",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "D) Two identical species",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": false
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "B) Atomic weights",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "B) Thomas M. Lowry only",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": false
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "A) Conjugate base",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "D) Na⁺",
+        "correctAnswer": "C) SO3",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "B) HCl",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "A) Weaker the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "A) Acidic",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "Which atom has the highest electronegativity?",
+        "userAnswer": "A) Fluorine",
+        "correctAnswer": "A) Fluorine",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Arrhenius concept?",
+        "userAnswer": "A) It requires the presence of water",
+        "correctAnswer": "A) It requires the presence of water",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+        "userAnswer": "C) NH3",
+        "correctAnswer": "C) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "C) Strong acid and weak base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "D) Odourless",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": true
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "C) Incomplete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "A double salt contains:",
+        "userAnswer": "C) More than one cation or anion",
+        "correctAnswer": "C) More than one cation or anion",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (aq) in a chemical equation stands for:",
+        "userAnswer": "B) Aqueous",
+        "correctAnswer": "B) Aqueous",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "C) A Lewis acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the acid?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "D) Gas phase only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "C) MgCl2",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "C) H2SO4",
+        "correctAnswer": "B) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "A) The salt is metallic",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with the same number of O atoms, acid strength increases with:",
+        "userAnswer": "D) Temperature",
+        "correctAnswer": "B) Increasing electronegativity of central atom",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis acid is a species that:",
+        "userAnswer": "B) Accepts an electron pair",
+        "correctAnswer": "B) Accepts an electron pair",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is an acidic salt?",
+        "userAnswer": "A) A salt formed by complete neutralization",
+        "correctAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept is useful for understanding:",
+        "userAnswer": "D) Only gas phase reactions",
+        "correctAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "To maximize conversion of a given reactant, other reactants should be:",
+        "userAnswer": "B) In stoichiometric excess",
+        "correctAnswer": "B) In stoichiometric excess",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": true
+      }
+    ]
   }
 ]
