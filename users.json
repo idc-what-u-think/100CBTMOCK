@@ -106,5 +106,11 @@
     "name": "Rouma",
     "password": "cXdlcnR5",
     "department": "Food"
+  },
+  {
+    "id": "1769950270020",
+    "name": "Muslim",
+    "password": "NjU3NDEy",
+    "department": "Civil"
   }
 ]
