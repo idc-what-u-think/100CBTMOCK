@@ -5926,5 +5926,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769984976780",
+    "user_name": "Giwa Abdulazeem",
+    "department": "Electrical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 33,
+    "total": 50,
+    "timestamp": "2026-02-01T22:39:37.550Z",
+    "results": [
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "D) A neutral species",
+        "correctAnswer": "B) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "C) Neutral",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      },
+      {
+        "question": "The law of conservation of mass states that in a chemical reaction:",
+        "userAnswer": "C) Mass is neither created nor destroyed",
+        "correctAnswer": "C) Mass is neither created nor destroyed",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "A) Gram",
+        "correctAnswer": "B) Gas",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": true
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "B) HCl",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "If theoretical yield is 50 g and actual yield is 40 g, the percent yield is:",
+        "userAnswer": "B) 80%",
+        "correctAnswer": "B) 80%",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "A) Aqueous solutions only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "A) A Bronsted-Lowry acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Formula stoichiometry refers to:",
+        "userAnswer": "B) Proportions of elements in a compound",
+        "correctAnswer": "B) Proportions of elements in a compound",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "A) NaCl",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": false
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "B) Strong acid and weak base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": true
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "C) 1464°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "B) KCl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "B) OH⁻ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "C) Neutral",
+        "correctAnswer": "B) Basic",
+        "isCorrect": false
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "B) The law of conservation of mass",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": true
+      },
+      {
+        "question": "Acetic acid (CH3COOH) is classified as:",
+        "userAnswer": "B) A weak acid",
+        "correctAnswer": "B) A weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "All ammonium salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "D) All are equally general",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "C) Concentration only",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and weak base are:",
+        "userAnswer": "C) Acidic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": true
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The melting point of sodium chloride is approximately:",
+        "userAnswer": "C) 800°C",
+        "correctAnswer": "C) 800°C",
+        "isCorrect": true
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "C) Highly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Potash Alum has the formula:",
+        "userAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "correctAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "A) Always 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": false
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "A) Partial ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "C) 5:3",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": false
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Ammonium hydroxide (NH4OH) is classified as:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "C) A weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "B) Lewis acids",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": true
+      }
+    ]
   }
 ]
