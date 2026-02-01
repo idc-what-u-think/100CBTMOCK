@@ -30574,5 +30574,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769969551129",
+    "user_name": "Abdullateef yusuf oganija",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 27,
+    "total": 50,
+    "timestamp": "2026-02-01T18:58:15.452Z",
+    "results": [
+      {
+        "question": "To be acidic in the Lewis sense, a molecule must be:",
+        "userAnswer": "A) Proton rich",
+        "correctAnswer": "B) Electron deficient",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "A) Arrhenius concept only",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": false
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "C) The minimum amount of product",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "In a proton transfer, H⁺ acts as:",
+        "userAnswer": "B) A Lewis acid",
+        "correctAnswer": "B) A Lewis acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "D) A strong base",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Ammonium hydroxide (NH4OH) is classified as:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "C) A weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "B) NaCl",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "D) HI",
+        "correctAnswer": "D) HI",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "A) Formula stoichiometry",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "C) HI",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "A) Complete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "C) H2",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "B) Two species that differ by a proton",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "A) Conjugate base",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "A) Products",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (s) in a chemical equation stands for:",
+        "userAnswer": "C) Solid",
+        "correctAnswer": "C) Solid",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept has not discussed the behavior of:",
+        "userAnswer": "B) AlCl3",
+        "correctAnswer": "C) Protonic acids like HCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "A) SO3",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction H2SO4 + 2KOH → 2H2O + K2SO4 produces:",
+        "userAnswer": "C) Water and potassium sulfate",
+        "correctAnswer": "C) Water and potassium sulfate",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "A) Always 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "D) The reactant with the smallest mass",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Arrhenius concept?",
+        "userAnswer": "A) It requires the presence of water",
+        "correctAnswer": "A) It requires the presence of water",
+        "isCorrect": true
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "In stoichiometry calculations, the first step is usually to:",
+        "userAnswer": "B) Balance the equation",
+        "correctAnswer": "B) Balance the equation",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "B) Bronsted-Lowry theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "D) Amphoteric",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In the presence of HF, HCO3⁻ acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "B) A base",
+        "isCorrect": false
+      },
+      {
+        "question": "To maximize conversion of a given reactant, other reactants should be:",
+        "userAnswer": "B) In stoichiometric excess",
+        "correctAnswer": "B) In stoichiometric excess",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "HCO3⁻ is an example of:",
+        "userAnswer": "A) A strong acid",
+        "correctAnswer": "C) An amphiprotic species",
+        "isCorrect": false
+      }
+    ]
   }
 ]
