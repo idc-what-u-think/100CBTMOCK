@@ -118,5 +118,11 @@
     "name": "Abdulkadir Yusuf",
     "password": "QWJkdWxrYWRpci4x",
     "department": "Computer"
+  },
+  {
+    "id": "1769950404533",
+    "name": "Olaore",
+    "password": "bWF0YW5kbWV0MDAx",
+    "department": "Material"
   }
 ]
