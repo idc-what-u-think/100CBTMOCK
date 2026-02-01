@@ -316,5 +316,11 @@
     "name": "Ade",
     "password": "YWRlMTJlNDU2",
     "department": "Chemical"
+  },
+  {
+    "id": "1769956695685",
+    "name": "Oluwaseun",
+    "password": "QWRlYmlzaQ==",
+    "department": "Water"
   }
 ]
