@@ -262,5 +262,11 @@
     "name": "Bonuola Teslim",
     "password": "Ym9udW9scw==",
     "department": "Water"
+  },
+  {
+    "id": "1769954227667",
+    "name": "Abidemi",
+    "password": "YWJpZGVtaQ==",
+    "department": "Computer"
   }
 ]
