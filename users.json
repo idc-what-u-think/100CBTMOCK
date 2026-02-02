@@ -772,5 +772,11 @@
     "name": "Shuaib",
     "password": "bmF3dw==",
     "department": "Agric"
+  },
+  {
+    "id": "1770016955036",
+    "name": "Hamitech",
+    "password": "QXRhbmRhMjAwOSM=",
+    "department": "Agric"
   }
 ]
