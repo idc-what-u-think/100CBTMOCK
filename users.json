@@ -862,5 +862,11 @@
     "name": "Abdulqudus",
     "password": "MDkxMzE1MDAzMzhB",
     "department": "Electrical"
+  },
+  {
+    "id": "1770021821337",
+    "name": "Abdulazeez Oluwaseun Abdulkadir",
+    "password": "cXdlcnR5dWlvcA==",
+    "department": "Computer"
   }
 ]
