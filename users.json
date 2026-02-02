@@ -760,5 +760,11 @@
     "name": "Kaozara",
     "password": "QEthb3phcmExOA==",
     "department": "Chemical"
+  },
+  {
+    "id": "1770006293988",
+    "name": "Faith",
+    "password": "T25pa2VwbzE4",
+    "department": "Biomedical"
   }
 ]
