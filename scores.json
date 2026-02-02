@@ -15598,5 +15598,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1770018466537",
+    "user_name": "Ahmed imam Salaudeen",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 21,
+    "total": 50,
+    "timestamp": "2026-02-02T08:06:14.954Z",
+    "results": [
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Arrhenius concept, neutralization must occur in:",
+        "userAnswer": "B) Aqueous solution",
+        "correctAnswer": "B) Aqueous solution",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "B) An acidic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": true
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "B) Conjugate base",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "B) Sour",
+        "correctAnswer": "C) Salty",
+        "isCorrect": false
+      },
+      {
+        "question": "In a neutralization reaction, an acid and base form:",
+        "userAnswer": "B) Only a salt",
+        "correctAnswer": "C) Water and a salt",
+        "isCorrect": false
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "B) Lewis acids",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "B) +3",
+        "correctAnswer": "D) +7",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of H2O?",
+        "userAnswer": "B) H3O⁺",
+        "correctAnswer": "B) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "B) Density",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "In the presence of HF, HCO3⁻ acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "B) Thomas M. Lowry only",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": false
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "A) Ionic bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "A) HCl",
+        "correctAnswer": "C) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "B) Donates a proton",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "B) Catalysts",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "B) An electron pair acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": false
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "B) An Arrhenius acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "B) The theoretical yield",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "B) H⁺ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "C) Na⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "C) H2O",
+        "correctAnswer": "C) H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "B) Sweet",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": false
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+        "userAnswer": "B) KOH",
+        "correctAnswer": "C) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "B) Bronsted",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": false
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "C) MgCl2",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "C) Cl⁻ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "If you have 2 moles of a substance with molar mass 50 g/mol, the mass is:",
+        "userAnswer": "B) 50 g",
+        "correctAnswer": "C) 100 g",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "A) NH2⁻",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "C) Incomplete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "C) They are equal",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": false
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "Down a group in the periodic table, electronegativity:",
+        "userAnswer": "B) Decreases",
+        "correctAnswer": "B) Decreases",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "A) NH4⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "B) +3",
+        "correctAnswer": "A) +1",
+        "isCorrect": false
+      },
+      {
+        "question": "The abbreviation (g) in a chemical equation stands for:",
+        "userAnswer": "C) Green",
+        "correctAnswer": "B) Gas",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": false
+      }
+    ]
   }
 ]
