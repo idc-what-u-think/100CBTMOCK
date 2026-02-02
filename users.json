@@ -850,5 +850,11 @@
     "name": "Akanbi",
     "password": "YWthbmJpMTIz",
     "department": "Biomedical"
+  },
+  {
+    "id": "1770020008589",
+    "name": "Iwa",
+    "password": "bmlnZ2E=",
+    "department": "Electrical"
   }
 ]
