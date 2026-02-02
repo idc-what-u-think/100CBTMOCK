@@ -24646,5 +24646,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769950887981",
+    "user_name": "Tomiwa",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 20,
+    "total": 50,
+    "timestamp": "2026-02-02T13:52:14.201Z",
+    "results": [
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "A) HCl",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "A) 35.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "B) HCl",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "A) Avogadro's number",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "Anions with ionizable hydrogens are:",
+        "userAnswer": "A) Always acidic",
+        "correctAnswer": "C) Amphiprotic",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "C) Lewis theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "B) NH4Cl",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "B) Stronger the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "B) A base",
+        "isCorrect": false
+      },
+      {
+        "question": "How many moles of OH⁻ does Sr(OH)2 produce per mole?",
+        "userAnswer": "A) 1 mole",
+        "correctAnswer": "B) 2 moles",
+        "isCorrect": false
+      },
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "A) NaCl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": false
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "A) Pb(OH)4 + H2SO4 → Pb(SO4)2 + 2H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "All nitrate salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "D) Ionization only in organic solvents",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": false
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "D) Volatile",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "B) Lewis acids",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "A) Cl⁻",
+        "correctAnswer": "C) H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "All ammonium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "C) H2O",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "C) The dissolution of salt in acid",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "A) HCl",
+        "correctAnswer": "C) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": true
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "C) Concentration only",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": false
+      },
+      {
+        "question": "The law of conservation of mass states that in a chemical reaction:",
+        "userAnswer": "C) Mass is neither created nor destroyed",
+        "correctAnswer": "C) Mass is neither created nor destroyed",
+        "isCorrect": true
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "D) Only dissociates in organic solvents",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "A) 16.00 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "A) Acidic",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "A balanced chemical equation obeys:",
+        "userAnswer": "D) The periodic law",
+        "correctAnswer": "B) The law of conservation of mass",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acids and bases can be:",
+        "userAnswer": "C) Ions as well as molecules",
+        "correctAnswer": "C) Ions as well as molecules",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "A) Acid + Base → Salt only",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "A) +1",
+        "correctAnswer": "D) +7",
+        "isCorrect": false
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "D) Volatile",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "C) Catalysts",
+        "correctAnswer": "B) Products",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "B) Equal to 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "A) Aqueous solutions only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "What determines the trend in acid strength across a period for nonmetal hydrides?",
+        "userAnswer": "A) Bond length",
+        "correctAnswer": "B) Electronegativity",
+        "isCorrect": false
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      }
+    ]
   }
 ]
