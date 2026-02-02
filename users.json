@@ -886,5 +886,11 @@
     "name": "Philip Joshua",
     "password": "cGhpbGlwNDY0Mg==",
     "department": "Agric"
+  },
+  {
+    "id": "1770026987000",
+    "name": "Samad",
+    "password": "U2VtZWRvLjEy",
+    "department": "Civil"
   }
 ]
