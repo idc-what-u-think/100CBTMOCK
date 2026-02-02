@@ -874,5 +874,11 @@
     "name": "Hassan Aminat Jumoke",
     "password": "aGFzc2Fu",
     "department": "Electrical"
+  },
+  {
+    "id": "1770024549350",
+    "name": "Ghost",
+    "password": "NTY1Ng==",
+    "department": "Mechanical"
   }
 ]
