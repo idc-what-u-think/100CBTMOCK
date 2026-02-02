@@ -694,5 +694,11 @@
     "name": "Bookish",
     "password": "MTIzNDU2",
     "department": "Electrical"
+  },
+  {
+    "id": "1769991307856",
+    "name": "Usman",
+    "password": "dXNtYW4xOTI0",
+    "department": "Water"
   }
 ]
