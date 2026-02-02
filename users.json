@@ -712,5 +712,11 @@
     "name": "EMR",
     "password": "UmVtYWFkaDYxOQ==",
     "department": "Mechanical"
+  },
+  {
+    "id": "1769991979793",
+    "name": "Ayoola",
+    "password": "MjI0NDY2",
+    "department": "Biomedical"
   }
 ]
