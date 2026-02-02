@@ -13414,5 +13414,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1770016955036",
+    "user_name": "Hamitech",
+    "department": "Agric",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 35,
+    "total": 50,
+    "timestamp": "2026-02-02T07:37:29.639Z",
+    "results": [
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "C) AgCl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "C) Reactants",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "D) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "A) NaHSO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "The degree of hydrolysis for salts of weak acid and weak base is:",
+        "userAnswer": "A) Dependent on concentration",
+        "correctAnswer": "B) Independent of concentration",
+        "isCorrect": false
+      },
+      {
+        "question": "NaCl is a salt of:",
+        "userAnswer": "B) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of ClO2 is approximately:",
+        "userAnswer": "C) 67.45 g/mol",
+        "correctAnswer": "C) 67.45 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an example of a Lewis acid but not a Bronsted-Lowry acid?",
+        "userAnswer": "C) BF3",
+        "correctAnswer": "C) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "All ammonium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The products of complete combustion of a hydrocarbon are:",
+        "userAnswer": "B) CO2 and H2O",
+        "correctAnswer": "B) CO2 and H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "A) It is the limiting reactant",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": true
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "B) Acid-base reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HClO4 is:",
+        "userAnswer": "D) +7",
+        "correctAnswer": "D) +7",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "B) Covalent bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "D) Insoluble",
+        "correctAnswer": "B) Basic",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "B) Atomic weights",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "D) Accepts a proton",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction HCl + NH3 → NH4Cl in benzene involves:",
+        "userAnswer": "A) Ionization of HCl",
+        "correctAnswer": "B) No ionization of reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "B) Potassium sodium tartrate",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": true
+      },
+      {
+        "question": "The typical color of pure salt (NaCl) is:",
+        "userAnswer": "C) Colourless, transparent, or white",
+        "correctAnswer": "C) Colourless, transparent, or white",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept is useful for understanding:",
+        "userAnswer": "A) Only proton transfer reactions",
+        "correctAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of weak acid and weak base can be:",
+        "userAnswer": "C) Only neutral",
+        "correctAnswer": "D) Acidic, basic, or neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "All Lowery-Bronsted acids are also:",
+        "userAnswer": "B) Lewis acids",
+        "correctAnswer": "B) Lewis acids",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "A) Always 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": false
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "A) Na2SO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is an acid?",
+        "userAnswer": "B) A proton donor",
+        "correctAnswer": "B) A proton donor",
+        "isCorrect": true
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "B) The theoretical yield",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Arrhenius concept?",
+        "userAnswer": "A) It requires the presence of water",
+        "correctAnswer": "A) It requires the presence of water",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "B) BaCO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept cannot explain the acidic character of:",
+        "userAnswer": "C) AlCl3",
+        "correctAnswer": "C) AlCl3",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of H2O is approximately:",
+        "userAnswer": "B) 18.02 g/mol",
+        "correctAnswer": "B) 18.02 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Arrhenius concept, neutralization must occur in:",
+        "userAnswer": "B) Aqueous solution",
+        "correctAnswer": "B) Aqueous solution",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "B) Two species that differ by a proton",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "B) mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": false
+      }
+    ]
   }
 ]
