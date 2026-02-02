@@ -10294,5 +10294,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769965118585",
+    "user_name": "Ojo",
+    "department": "Mechanical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 34,
+    "total": 50,
+    "timestamp": "2026-02-02T01:25:34.794Z",
+    "results": [
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "A) H⁺ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "C) Lewis concept",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis acid is:",
+        "userAnswer": "A) NH3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Theoretical yield is:",
+        "userAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "correctAnswer": "B) The calculated maximum amount of product assuming 100% conversion",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "B) A basic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": true
+      },
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "C) AgCl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "B) An acidic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": true
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "D) Odourless",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "A) Na2O",
+        "correctAnswer": "C) SO3",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "A) OH⁻ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The degree of hydrolysis for salts of weak acid and weak base is:",
+        "userAnswer": "B) Independent of concentration",
+        "correctAnswer": "B) Independent of concentration",
+        "isCorrect": true
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "C) Salty",
+        "correctAnswer": "C) Salty",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept has not discussed the behavior of:",
+        "userAnswer": "C) Protonic acids like HCl",
+        "correctAnswer": "C) Protonic acids like HCl",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt refers to:",
+        "userAnswer": "B) The reaction of salt with water",
+        "correctAnswer": "B) The reaction of salt with water",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "D) KH2PO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "A) H2SeO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": false
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "B) Ions",
+        "correctAnswer": "B) Ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "A) HF > HCl > HBr > HI",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Arrhenius concept, neutralization must occur in:",
+        "userAnswer": "B) Aqueous solution",
+        "correctAnswer": "B) Aqueous solution",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "A) NaCl",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": false
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "B) Two species that differ by a proton",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids, more O atoms around the central atom leads to:",
+        "userAnswer": "B) Increased acidity",
+        "correctAnswer": "B) Increased acidity",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The law of conservation of mass states that in a chemical reaction:",
+        "userAnswer": "C) Mass is neither created nor destroyed",
+        "correctAnswer": "C) Mass is neither created nor destroyed",
+        "isCorrect": true
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "D) The reactant with the smallest mass",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": false
+      },
+      {
+        "question": "To be acidic in the Lewis sense, a molecule must be:",
+        "userAnswer": "B) Electron deficient",
+        "correctAnswer": "B) Electron deficient",
+        "isCorrect": true
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": true
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "A double salt contains:",
+        "userAnswer": "C) More than one cation or anion",
+        "correctAnswer": "C) More than one cation or anion",
+        "isCorrect": true
+      },
+      {
+        "question": "Basic salts hydrolyze to form:",
+        "userAnswer": "C) A neutral solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "A basic or alkali salt is formed by partial neutralization of:",
+        "userAnswer": "C) A strong base by a weak acid",
+        "correctAnswer": "C) A strong base by a weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: H2SO4 or H2SO3?",
+        "userAnswer": "B) H2SO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": true
+      },
+      {
+        "question": "The products of complete combustion of a hydrocarbon are:",
+        "userAnswer": "D) CO2 and H2",
+        "correctAnswer": "B) CO2 and H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "B) NaCl",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": true
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "D) (NH4)2SO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "B) Basic",
+        "correctAnswer": "B) Basic",
+        "isCorrect": true
+      }
+    ]
   }
 ]
