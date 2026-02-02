@@ -8422,5 +8422,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769989695313",
+    "user_name": "Active renold",
+    "department": "Civil",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 35,
+    "total": 50,
+    "timestamp": "2026-02-02T00:08:09.908Z",
+    "results": [
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "A) HF > HCl > HBr > HI",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain reactions in:",
+        "userAnswer": "B) Non-protonic solvents like SO2",
+        "correctAnswer": "B) Non-protonic solvents like SO2",
+        "isCorrect": true
+      },
+      {
+        "question": "A double salt contains:",
+        "userAnswer": "C) More than one cation or anion",
+        "correctAnswer": "C) More than one cation or anion",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "A basic or alkali salt is formed by partial neutralization of:",
+        "userAnswer": "C) A strong base by a weak acid",
+        "correctAnswer": "C) A strong base by a weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "PbCl2 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "A) SO3",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "A) HOCl > HOClO2 > HOClO3 > HClO4",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "The conjugate base of acetic acid (CH3COOH) is:",
+        "userAnswer": "A) CH3COO⁻",
+        "correctAnswer": "A) CH3COO⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the Bronsted-Lowry concept in 1923?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "C) Both Johannes N. Brønsted and Thomas M. Lowry independently",
+        "isCorrect": false
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "B) H3O⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Molar mass has units of:",
+        "userAnswer": "C) g/mol",
+        "correctAnswer": "C) g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the general pattern of acid-base reactions?",
+        "userAnswer": "B) Acid + Base → Water + Salt",
+        "correctAnswer": "B) Acid + Base → Water + Salt",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "Who proposed the electron-pair theory of covalent bonding?",
+        "userAnswer": "D) G. N. Lewis",
+        "correctAnswer": "D) G. N. Lewis",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "B) NH4Cl",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "The limiting reactant is:",
+        "userAnswer": "B) The reactant that is completely consumed first",
+        "correctAnswer": "B) The reactant that is completely consumed first",
+        "isCorrect": true
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "When a base accepts a proton, it becomes its:",
+        "userAnswer": "B) Conjugate acid",
+        "correctAnswer": "B) Conjugate acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "A) NaCl",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": false
+      },
+      {
+        "question": "NaCl is a salt of:",
+        "userAnswer": "B) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "B) Two species that differ by a proton",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "C) Highly soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "As the X-H bond becomes longer and weaker down a group:",
+        "userAnswer": "A) Acid strength decreases",
+        "correctAnswer": "B) Acid strength increases",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "A) H3O⁺",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "D) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "C) A neutral salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 5A(15), which is the stronger acid?",
+        "userAnswer": "B) H3PO4",
+        "correctAnswer": "B) H3PO4",
+        "isCorrect": true
+      },
+      {
+        "question": "An amphiprotic species is one that can act as:",
+        "userAnswer": "C) Either an acid or a base",
+        "correctAnswer": "C) Either an acid or a base",
+        "isCorrect": true
+      },
+      {
+        "question": "The melting point of sodium chloride is approximately:",
+        "userAnswer": "C) 800°C",
+        "correctAnswer": "C) 800°C",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "B) A symbolic representation of a chemical change",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": true
+      },
+      {
+        "question": "The Lewis concept is useful for understanding:",
+        "userAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "correctAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "In the balanced equation 2C8H16 + 25O2 → 16CO2 + 18H2O, how many moles of CO2 are produced from 2 moles of C8H16?",
+        "userAnswer": "B) 16 moles",
+        "correctAnswer": "B) 16 moles",
+        "isCorrect": true
+      },
+      {
+        "question": "Anions with ionizable hydrogens are:",
+        "userAnswer": "B) Always basic",
+        "correctAnswer": "C) Amphiprotic",
+        "isCorrect": false
+      }
+    ]
   }
 ]
