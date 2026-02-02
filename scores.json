@@ -10918,5 +10918,317 @@
         "isCorrect": false
       }
     ]
+  },
+  {
+    "user_id": "1769996070892",
+    "user_name": "Muhammed olayiwola agbaje",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 20,
+    "total": 50,
+    "timestamp": "2026-02-02T01:47:17.256Z",
+    "results": [
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "A) OH⁻ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "The conjugate base of acetic acid (CH3COOH) is:",
+        "userAnswer": "B) CH3COOH2⁺",
+        "correctAnswer": "A) CH3COO⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is amphiprotic?",
+        "userAnswer": "B) Na⁺",
+        "correctAnswer": "C) H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "B) An electron pair acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": false
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "A) The calculated maximum product",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": false
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "D) A strong acid",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction BF3 + NH3 → BF3NH3, the Lewis base is:",
+        "userAnswer": "D) Both BF3 and NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "A) Basic",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "To convert moles to mass, you multiply moles by:",
+        "userAnswer": "D) Volume",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": false
+      },
+      {
+        "question": "Dry HCl cannot act as an acid according to:",
+        "userAnswer": "C) Arrhenius theory",
+        "correctAnswer": "C) Arrhenius theory",
+        "isCorrect": true
+      },
+      {
+        "question": "Strong acids are characterized by:",
+        "userAnswer": "B) Complete ionization in water",
+        "correctAnswer": "B) Complete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "A) Conjugate acid",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius base increases the concentration of:",
+        "userAnswer": "C) OH⁻ ions",
+        "correctAnswer": "C) OH⁻ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Lewis, what is an acid?",
+        "userAnswer": "A) A proton donor",
+        "correctAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "isCorrect": false
+      },
+      {
+        "question": "Acetic acid (CH3COOH) is classified as:",
+        "userAnswer": "B) A weak acid",
+        "correctAnswer": "B) A weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is stronger: HNO3 or HNO2?",
+        "userAnswer": "B) HNO3",
+        "correctAnswer": "B) HNO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Acid-base reactions in the Bronsted-Lowry concept are restricted to:",
+        "userAnswer": "A) Aqueous solutions only",
+        "correctAnswer": "B) Any solvent or no solvent",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "C) HI",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lewis concept is useful for understanding:",
+        "userAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "correctAnswer": "B) Reactions of acidic and basic oxides and other reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "D) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "C) Usually less than 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": true
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "D) A double salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "C) HBr",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "A) Pungent",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": false
+      },
+      {
+        "question": "The more electronegative an atom bonded to hydrogen, the:",
+        "userAnswer": "B) Stronger the acid",
+        "correctAnswer": "B) Stronger the acid",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "A) H3O⁺",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is an example of:",
+        "userAnswer": "C) A salt",
+        "correctAnswer": "C) A salt",
+        "isCorrect": true
+      },
+      {
+        "question": "A chemical equation is:",
+        "userAnswer": "A) A verbal description of a reaction",
+        "correctAnswer": "B) A symbolic representation of a chemical change",
+        "isCorrect": false
+      },
+      {
+        "question": "Down a group, the acid strength of nonmetal hydrides:",
+        "userAnswer": "A) Decreases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": false
+      },
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "A) Arrhenius theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": false
+      },
+      {
+        "question": "In a neutralization reaction, an acid and base form:",
+        "userAnswer": "C) Water and a salt",
+        "correctAnswer": "C) Water and a salt",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of NH4⁺?",
+        "userAnswer": "D) NH5²⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "D) HOClO3 > HClO4 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the base is:",
+        "userAnswer": "B) NH3",
+        "correctAnswer": "B) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "D) Decomposition reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "NH4Cl is a salt of:",
+        "userAnswer": "D) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "Most carbonate salts are:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Hg2Cl2 is a chloride salt that is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a salt in chemistry?",
+        "userAnswer": "A) Any white crystalline substance",
+        "correctAnswer": "B) An ionic compound with a cation other than H⁺ and an anion other than OH⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "For oxoacids with different numbers of O atoms, acid strength increases with:",
+        "userAnswer": "B) Increasing number of O atoms",
+        "correctAnswer": "B) Increasing number of O atoms",
+        "isCorrect": true
+      },
+      {
+        "question": "A Lewis base is a species that:",
+        "userAnswer": "A) Accepts an electron pair",
+        "correctAnswer": "C) Donates an electron pair",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Lewis concept?",
+        "userAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "correctAnswer": "B) It does not provide an idea about relative strength of acids and bases",
+        "isCorrect": true
+      },
+      {
+        "question": "If you have 90 g of water (molar mass 18 g/mol), you have:",
+        "userAnswer": "B) 5 moles",
+        "correctAnswer": "B) 5 moles",
+        "isCorrect": true
+      }
+    ]
   }
 ]
