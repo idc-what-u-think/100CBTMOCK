@@ -880,5 +880,11 @@
     "name": "Ghost",
     "password": "NTY1Ng==",
     "department": "Mechanical"
+  },
+  {
+    "id": "1770024867551",
+    "name": "Philip Joshua",
+    "password": "cGhpbGlwNDY0Mg==",
+    "department": "Agric"
   }
 ]
