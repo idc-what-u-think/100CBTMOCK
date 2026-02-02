@@ -766,5 +766,11 @@
     "name": "Faith",
     "password": "T25pa2VwbzE4",
     "department": "Biomedical"
+  },
+  {
+    "id": "1770015497153",
+    "name": "Shuaib",
+    "password": "bmF3dw==",
+    "department": "Agric"
   }
 ]
