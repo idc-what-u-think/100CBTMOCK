@@ -778,5 +778,11 @@
     "name": "Hamitech",
     "password": "QXRhbmRhMjAwOSM=",
     "department": "Agric"
+  },
+  {
+    "id": "1770017127295",
+    "name": "Adeniyi Adedayo",
+    "password": "Qmx1ZV9zaWx2ZXIx",
+    "department": "Water"
   }
 ]
