@@ -724,5 +724,11 @@
     "name": "Ayanda",
     "password": "a2hhbGlk",
     "department": "Civil"
+  },
+  {
+    "id": "1769993152670",
+    "name": "Kabir",
+    "password": "YWRlYmF5bzEyMw==",
+    "department": "Chemical"
   }
 ]
