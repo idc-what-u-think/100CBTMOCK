@@ -12478,5 +12478,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1770006293988",
+    "user_name": "Faith",
+    "department": "Biomedical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 30,
+    "total": 50,
+    "timestamp": "2026-02-02T04:37:09.402Z",
+    "results": [
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "A) OH⁻ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "The strength of an acid depends on:",
+        "userAnswer": "B) Its ability to donate a proton",
+        "correctAnswer": "B) Its ability to donate a proton",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bronsted-Lowry concept cannot explain the acidic behavior of:",
+        "userAnswer": "B) BF3",
+        "correctAnswer": "B) BF3",
+        "isCorrect": true
+      },
+      {
+        "question": "The law of conservation of mass states that in a chemical reaction:",
+        "userAnswer": "C) Mass is neither created nor destroyed",
+        "correctAnswer": "C) Mass is neither created nor destroyed",
+        "isCorrect": true
+      },
+      {
+        "question": "Most Lead(II) salts are:",
+        "userAnswer": "A) Soluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": false
+      },
+      {
+        "question": "The strongest chlorine oxoacid is:",
+        "userAnswer": "D) HClO4",
+        "correctAnswer": "D) HClO4",
+        "isCorrect": true
+      },
+      {
+        "question": "Actual yield (observed yield) is:",
+        "userAnswer": "C) The amount of product actually obtained in the lab",
+        "correctAnswer": "C) The amount of product actually obtained in the lab",
+        "isCorrect": true
+      },
+      {
+        "question": "Which is a limitation of the Arrhenius concept?",
+        "userAnswer": "A) It requires the presence of water",
+        "correctAnswer": "A) It requires the presence of water",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest chlorine oxoacid is:",
+        "userAnswer": "C) HOClO3",
+        "correctAnswer": "A) HOCl",
+        "isCorrect": false
+      },
+      {
+        "question": "K2CO3 is:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "A strong base is one that:",
+        "userAnswer": "A) Partially dissociates in solution",
+        "correctAnswer": "C) Completely dissociates in solution",
+        "isCorrect": false
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "C) 84.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "B) NH4⁺",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "In Group 6A(16), which is the stronger acid?",
+        "userAnswer": "A) H2SeO4",
+        "correctAnswer": "B) H2SO4",
+        "isCorrect": false
+      },
+      {
+        "question": "When dissolved in water, an Arrhenius acid increases the concentration of:",
+        "userAnswer": "B) H3O⁺ ions",
+        "correctAnswer": "B) H3O⁺ ions",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "C) Less than 7",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of ClO2 to H2O is:",
+        "userAnswer": "B) 2:1",
+        "correctAnswer": "B) 2:1",
+        "isCorrect": true
+      },
+      {
+        "question": "The pH of a salt solution from weak acid and strong base is:",
+        "userAnswer": "C) Greater than 7",
+        "correctAnswer": "C) Greater than 7",
+        "isCorrect": true
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "B) An acidic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": true
+      },
+      {
+        "question": "AlCl3 is an example of:",
+        "userAnswer": "A) A Bronsted-Lowry acid",
+        "correctAnswer": "C) A Lewis acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts are obtained along with water in:",
+        "userAnswer": "C) Neutralization reactions",
+        "correctAnswer": "C) Neutralization reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "CuSO4 is classified as:",
+        "userAnswer": "C) A neutral salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "A) Conjugate acid",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": false
+      },
+      {
+        "question": "What is an acidic salt?",
+        "userAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "correctAnswer": "B) A salt formed by partial neutralization of a diprotic or polyprotic acid",
+        "isCorrect": true
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "B) Covalent bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": true
+      },
+      {
+        "question": "As the X-H bond becomes longer and weaker down a group:",
+        "userAnswer": "A) Acid strength decreases",
+        "correctAnswer": "B) Acid strength increases",
+        "isCorrect": false
+      },
+      {
+        "question": "The hydrolysis of acetate ion (CH3COO⁻) produces:",
+        "userAnswer": "A) H⁺ ions",
+        "correctAnswer": "B) OH⁻ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "CaOCl2 is an example of:",
+        "userAnswer": "D) A double salt",
+        "correctAnswer": "C) A mixed salt",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis acid?",
+        "userAnswer": "C) SO3",
+        "correctAnswer": "C) SO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Which salt is used in baking?",
+        "userAnswer": "B) Some acid salts",
+        "correctAnswer": "B) Some acid salts",
+        "isCorrect": true
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "C) Salty",
+        "correctAnswer": "C) Salty",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "All ethanoate (acetate) salts are:",
+        "userAnswer": "C) Sparingly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "B) Ionizable H⁺ along with another cation",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": true
+      },
+      {
+        "question": "When NH4Cl dissolves in water, the solution is:",
+        "userAnswer": "D) Amphoteric",
+        "correctAnswer": "C) Acidic",
+        "isCorrect": false
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "A) +1",
+        "correctAnswer": "A) +1",
+        "isCorrect": true
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "D) CaCl2",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": false
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "C) Acrid",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": false
+      },
+      {
+        "question": "All sodium and potassium salts are:",
+        "userAnswer": "A) Insoluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "B) Potassium sodium tartrate",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": true
+      },
+      {
+        "question": "When a reactant is in stoichiometric excess, it means:",
+        "userAnswer": "B) There is more than required by stoichiometry",
+        "correctAnswer": "B) There is more than required by stoichiometry",
+        "isCorrect": true
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with HC2H3O2 (acetic acid), water acts as:",
+        "userAnswer": "D) A neutral species",
+        "correctAnswer": "B) A base",
+        "isCorrect": false
+      },
+      {
+        "question": "Formula stoichiometry refers to:",
+        "userAnswer": "B) Proportions of elements in a compound",
+        "correctAnswer": "B) Proportions of elements in a compound",
+        "isCorrect": true
+      },
+      {
+        "question": "NaOH is an example of:",
+        "userAnswer": "B) A strong base",
+        "correctAnswer": "B) A strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "Down a group in the periodic table, electronegativity:",
+        "userAnswer": "B) Decreases",
+        "correctAnswer": "B) Decreases",
+        "isCorrect": true
+      }
+    ]
   }
 ]
