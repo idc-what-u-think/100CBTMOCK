@@ -706,5 +706,11 @@
     "name": "Lawrence",
     "password": "QXlvbWlkZTEyMw==",
     "department": "Water"
+  },
+  {
+    "id": "1769991904719",
+    "name": "EMR",
+    "password": "UmVtYWFkaDYxOQ==",
+    "department": "Mechanical"
   }
 ]
