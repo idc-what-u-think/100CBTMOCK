@@ -21214,5 +21214,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1769950411191",
+    "user_name": "Hafeezat",
+    "department": "Chemical",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 32,
+    "total": 50,
+    "timestamp": "2026-02-02T10:19:08.147Z",
+    "results": [
+      {
+        "question": "Which theory of acids and bases is the most general?",
+        "userAnswer": "C) Lewis theory",
+        "correctAnswer": "C) Lewis theory",
+        "isCorrect": true
+      },
+      {
+        "question": "In the Bronsted-Lowry concept, acid-base reactions are seen as:",
+        "userAnswer": "B) Proton transfer reactions",
+        "correctAnswer": "B) Proton transfer reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The typical color of pure salt (NaCl) is:",
+        "userAnswer": "C) Colourless, transparent, or white",
+        "correctAnswer": "C) Colourless, transparent, or white",
+        "isCorrect": true
+      },
+      {
+        "question": "The conjugate base of acetic acid (CH3COOH) is:",
+        "userAnswer": "A) CH3COO⁻",
+        "correctAnswer": "A) CH3COO⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is an acidic salt?",
+        "userAnswer": "C) NaHSO4",
+        "correctAnswer": "C) NaHSO4",
+        "isCorrect": true
+      },
+      {
+        "question": "In practice, conversion of reactants to products is:",
+        "userAnswer": "C) Usually less than 100%",
+        "correctAnswer": "C) Usually less than 100%",
+        "isCorrect": true
+      },
+      {
+        "question": "The reaction of basic oxides with acidic oxides can be explained by:",
+        "userAnswer": "D) None of the concepts",
+        "correctAnswer": "C) Lewis concept",
+        "isCorrect": false
+      },
+      {
+        "question": "The pH of NH4Cl solution is:",
+        "userAnswer": "A) Greater than 7",
+        "correctAnswer": "C) Less than 7",
+        "isCorrect": false
+      },
+      {
+        "question": "What type of bond is formed in Lewis acid-base reactions?",
+        "userAnswer": "B) Covalent bond",
+        "correctAnswer": "B) Covalent bond",
+        "isCorrect": true
+      },
+      {
+        "question": "In the presence of OH⁻, HCO3⁻ acts as:",
+        "userAnswer": "A) An acid",
+        "correctAnswer": "A) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "A) A base",
+        "correctAnswer": "B) An acid",
+        "isCorrect": false
+      },
+      {
+        "question": "Reaction stoichiometry refers to:",
+        "userAnswer": "B) Proportions of reactants and products in a reaction",
+        "correctAnswer": "B) Proportions of reactants and products in a reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is a base?",
+        "userAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "correctAnswer": "C) A compound that ionizes to produce hydroxide ions",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of NH4⁺?",
+        "userAnswer": "A) NH2⁻",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of weak acid and strong base are:",
+        "userAnswer": "B) Basic",
+        "correctAnswer": "B) Basic",
+        "isCorrect": true
+      },
+      {
+        "question": "The abbreviation (l) in a chemical equation stands for:",
+        "userAnswer": "C) Liquid",
+        "correctAnswer": "C) Liquid",
+        "isCorrect": true
+      },
+      {
+        "question": "Which carbonate is soluble?",
+        "userAnswer": "C) Na2CO3",
+        "correctAnswer": "C) Na2CO3",
+        "isCorrect": true
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "C) Neutral",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": true
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "C) Incomplete ionization in water",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": true
+      },
+      {
+        "question": "When a salt solution conducts electricity, it is because:",
+        "userAnswer": "B) Free ions are present",
+        "correctAnswer": "B) Free ions are present",
+        "isCorrect": true
+      },
+      {
+        "question": "When CH3COONa dissolves in water, it produces:",
+        "userAnswer": "A) An acidic solution",
+        "correctAnswer": "B) A basic solution",
+        "isCorrect": false
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "In oxoacids, the acidic H atom is bonded to:",
+        "userAnswer": "B) An O atom",
+        "correctAnswer": "B) An O atom",
+        "isCorrect": true
+      },
+      {
+        "question": "PbCl2 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "Across a period, the acid strength of nonmetal hydrides:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "D) Decomposition reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": false
+      },
+      {
+        "question": "(NH4)2CO3 is:",
+        "userAnswer": "C) Slightly soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the conjugate acid of NH3?",
+        "userAnswer": "C) N2",
+        "correctAnswer": "B) NH4⁺",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "A) A species with unshared electron pairs available for sharing",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": true
+      },
+      {
+        "question": "The molar mass of HClO3 is approximately:",
+        "userAnswer": "D) 100.46 g/mol",
+        "correctAnswer": "C) 84.46 g/mol",
+        "isCorrect": false
+      },
+      {
+        "question": "Pure NaCl typically has what odour?",
+        "userAnswer": "A) Pungent",
+        "correctAnswer": "D) Odourless",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "D) Na2SO4",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "For salts of weak acid and weak base, the pH depends on:",
+        "userAnswer": "A) Temperature only",
+        "correctAnswer": "B) Ka and Kb values",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "A) NaHSO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is an acid?",
+        "userAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "correctAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "isCorrect": true
+      },
+      {
+        "question": "To convert mass to moles, you divide mass by:",
+        "userAnswer": "C) Molar mass",
+        "correctAnswer": "C) Molar mass",
+        "isCorrect": true
+      },
+      {
+        "question": "The weakest hydrohalic acid is:",
+        "userAnswer": "B) HBr",
+        "correctAnswer": "D) HF",
+        "isCorrect": false
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "C) Salty",
+        "correctAnswer": "C) Salty",
+        "isCorrect": true
+      },
+      {
+        "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+        "userAnswer": "A) NaOH",
+        "correctAnswer": "C) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "Stoichiometry refers to:",
+        "userAnswer": "B) The proportions in a chemical formula or reaction",
+        "correctAnswer": "B) The proportions in a chemical formula or reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Arrhenius, what is an acid?",
+        "userAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "correctAnswer": "B) A compound that ionizes to produce hydrogen ions",
+        "isCorrect": true
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "B) Ionizable H⁺ along with another cation",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the left side of the arrow are called:",
+        "userAnswer": "A) Products",
+        "correctAnswer": "C) Reactants",
+        "isCorrect": false
+      },
+      {
+        "question": "Across a period in the periodic table, electronegativity:",
+        "userAnswer": "B) Increases",
+        "correctAnswer": "B) Increases",
+        "isCorrect": true
+      },
+      {
+        "question": "The balanced equation for Pb(OH)4 + H2SO4 → Pb(SO4)2 + H2O is:",
+        "userAnswer": "C) 2Pb(OH)4 + H2SO4 → Pb(SO4)2 + 4H2O",
+        "correctAnswer": "B) Pb(OH)4 + 2H2SO4 → Pb(SO4)2 + 4H2O",
+        "isCorrect": false
+      },
+      {
+        "question": "The melting point of sodium chloride is approximately:",
+        "userAnswer": "A) 100°C",
+        "correctAnswer": "C) 800°C",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction H3O⁺ + NH3 → H2O + NH4⁺, the proton donor is:",
+        "userAnswer": "C) H3O⁺",
+        "correctAnswer": "C) H3O⁺",
+        "isCorrect": true
+      },
+      {
+        "question": "The main mineral constituent of seawater is:",
+        "userAnswer": "B) NaCl",
+        "correctAnswer": "B) NaCl",
+        "isCorrect": true
+      }
+    ]
   }
 ]
