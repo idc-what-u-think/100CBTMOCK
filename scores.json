@@ -14038,5 +14038,317 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "user_id": "1770017127295",
+    "user_name": "Adeniyi Adedayo",
+    "department": "Water",
+    "course_id": "CHM101",
+    "course_name": "General Chemistry 1",
+    "score": 23,
+    "total": 50,
+    "timestamp": "2026-02-02T07:43:48.661Z",
+    "results": [
+      {
+        "question": "Which chloride salt is insoluble?",
+        "userAnswer": "D) NH4Cl",
+        "correctAnswer": "C) AgCl",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction of Na2O with SO3, which is the Lewis base?",
+        "userAnswer": "D) Na2SO4",
+        "correctAnswer": "C) O²⁻",
+        "isCorrect": false
+      },
+      {
+        "question": "According to the Lowry-Bronsted definition, what is a base?",
+        "userAnswer": "B) An electron pair acceptor",
+        "correctAnswer": "C) A proton acceptor",
+        "isCorrect": false
+      },
+      {
+        "question": "Neutralization reactions are also called:",
+        "userAnswer": "B) Acid-base reactions",
+        "correctAnswer": "B) Acid-base reactions",
+        "isCorrect": true
+      },
+      {
+        "question": "Which of the following is a basic salt?",
+        "userAnswer": "A) NaHSO4",
+        "correctAnswer": "C) Na2S",
+        "isCorrect": false
+      },
+      {
+        "question": "Potash Alum has the formula:",
+        "userAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "correctAnswer": "B) K2SO4.Al2(SO4)3.24H2O",
+        "isCorrect": true
+      },
+      {
+        "question": "The coefficients in a balanced equation give:",
+        "userAnswer": "A) Formula stoichiometry",
+        "correctAnswer": "C) Reaction stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "The Arrhenius concept requires an extended explanation for the basic nature of:",
+        "userAnswer": "C) NH3",
+        "correctAnswer": "C) NH3",
+        "isCorrect": true
+      },
+      {
+        "question": "Ag2SO4 is:",
+        "userAnswer": "B) Insoluble",
+        "correctAnswer": "B) Insoluble",
+        "isCorrect": true
+      },
+      {
+        "question": "KH2PO4 is an example of:",
+        "userAnswer": "A) A basic salt",
+        "correctAnswer": "B) An acidic salt",
+        "isCorrect": false
+      },
+      {
+        "question": "Which is a limitation of the Bronsted-Lowry concept?",
+        "userAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "correctAnswer": "A) It cannot explain reactions in non-protonic solvents",
+        "isCorrect": true
+      },
+      {
+        "question": "The order of acid strength for chlorine oxoacids is:",
+        "userAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "correctAnswer": "B) HClO4 > HOClO3 > HOClO2 > HOCl",
+        "isCorrect": true
+      },
+      {
+        "question": "In a chemical equation, species on the right side of the arrow are called:",
+        "userAnswer": "B) Products",
+        "correctAnswer": "B) Products",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the conjugate base of H2O?",
+        "userAnswer": "B) OH⁻",
+        "correctAnswer": "B) OH⁻",
+        "isCorrect": true
+      },
+      {
+        "question": "The oxidation number of Cl in HOCl is:",
+        "userAnswer": "B) +3",
+        "correctAnswer": "A) +1",
+        "isCorrect": false
+      },
+      {
+        "question": "The taste sensation associated with table salt is:",
+        "userAnswer": "D) Bitter",
+        "correctAnswer": "C) Salty",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "correctAnswer": "B) A weak acid (CH3COOH) and strong base (NaOH)",
+        "isCorrect": true
+      },
+      {
+        "question": "Rochelle salt is also known as:",
+        "userAnswer": "C) Potassium chloride",
+        "correctAnswer": "B) Potassium sodium tartrate",
+        "isCorrect": false
+      },
+      {
+        "question": "Weak acids are characterized by:",
+        "userAnswer": "D) Ionization only in organic solvents",
+        "correctAnswer": "C) Incomplete ionization in water",
+        "isCorrect": false
+      },
+      {
+        "question": "Saltwater is a conductor of electricity because it contains:",
+        "userAnswer": "B) Ions",
+        "correctAnswer": "B) Ions",
+        "isCorrect": true
+      },
+      {
+        "question": "NaCl is a salt of:",
+        "userAnswer": "B) Strong acid and strong base",
+        "correctAnswer": "B) Strong acid and strong base",
+        "isCorrect": true
+      },
+      {
+        "question": "In NH4⁺ and NH3, which is the base?",
+        "userAnswer": "A) NH4⁺",
+        "correctAnswer": "B) NH3",
+        "isCorrect": false
+      },
+      {
+        "question": "Percent yield is calculated as:",
+        "userAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "correctAnswer": "B) (Observed yield / Theoretical yield) × 100",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a conjugate acid-base pair?",
+        "userAnswer": "A) Two species that differ by a neutron",
+        "correctAnswer": "B) Two species that differ by a proton",
+        "isCorrect": false
+      },
+      {
+        "question": "When water reacts with NH3, water acts as:",
+        "userAnswer": "B) An acid",
+        "correctAnswer": "B) An acid",
+        "isCorrect": true
+      },
+      {
+        "question": "All ethanoate (acetate) salts are:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "Acidic salts have:",
+        "userAnswer": "B) Ionizable H⁺ along with another cation",
+        "correctAnswer": "B) Ionizable H⁺ along with another cation",
+        "isCorrect": true
+      },
+      {
+        "question": "Pb(CH3COO)2 is:",
+        "userAnswer": "B) Soluble",
+        "correctAnswer": "B) Soluble",
+        "isCorrect": true
+      },
+      {
+        "question": "CaOCl2 is an example of:",
+        "userAnswer": "C) A mixed salt",
+        "correctAnswer": "C) A mixed salt",
+        "isCorrect": true
+      },
+      {
+        "question": "According to Lewis, what is a base?",
+        "userAnswer": "C) A proton acceptor",
+        "correctAnswer": "A) A species with unshared electron pairs available for sharing",
+        "isCorrect": false
+      },
+      {
+        "question": "Salts of strong acid and strong base are:",
+        "userAnswer": "D) Amphoteric",
+        "correctAnswer": "C) Neutral",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Lewis, what is an acid?",
+        "userAnswer": "A) A proton donor",
+        "correctAnswer": "B) A species capable of coordinating with unshared electron pairs",
+        "isCorrect": false
+      },
+      {
+        "question": "In a chemical equation, what does the arrow (→) represent?",
+        "userAnswer": "B) Direction of reaction",
+        "correctAnswer": "B) Direction of reaction",
+        "isCorrect": true
+      },
+      {
+        "question": "The subscripts in a chemical formula give:",
+        "userAnswer": "A) Reaction stoichiometry",
+        "correctAnswer": "B) Formula stoichiometry",
+        "isCorrect": false
+      },
+      {
+        "question": "In hydrolysis, the constituent products are:",
+        "userAnswer": "A) Water and heat",
+        "correctAnswer": "B) Acid and base",
+        "isCorrect": false
+      },
+      {
+        "question": "The degree of hydrolysis for salts of weak acid and weak base is:",
+        "userAnswer": "D) Always 100%",
+        "correctAnswer": "B) Independent of concentration",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONa is a salt of:",
+        "userAnswer": "D) Weak acid and weak base",
+        "correctAnswer": "B) Weak acid and strong base",
+        "isCorrect": false
+      },
+      {
+        "question": "Which sulphate salt is insoluble?",
+        "userAnswer": "D) (NH4)2SO4",
+        "correctAnswer": "C) BaSO4",
+        "isCorrect": false
+      },
+      {
+        "question": "When an acid donates a proton, it becomes its:",
+        "userAnswer": "C) Salt",
+        "correctAnswer": "B) Conjugate base",
+        "isCorrect": false
+      },
+      {
+        "question": "CH3COONH4 is a salt of:",
+        "userAnswer": "D) Weak acid and strong base",
+        "correctAnswer": "B) Weak acid and weak base",
+        "isCorrect": false
+      },
+      {
+        "question": "In the reaction 6ClO2 + 3H2O → 5HClO3 + HCl, the mole ratio of H2O to HClO3 is:",
+        "userAnswer": "B) 3:5",
+        "correctAnswer": "B) 3:5",
+        "isCorrect": true
+      },
+      {
+        "question": "The net ionic equation for many acid-base reactions is:",
+        "userAnswer": "C) Na⁺(aq) + Cl⁻(aq) → NaCl(s)",
+        "correctAnswer": "B) H⁺(aq) + OH⁻(aq) → H2O(l)",
+        "isCorrect": false
+      },
+      {
+        "question": "The order of acid strength for hydrohalic acids is:",
+        "userAnswer": "C) HCl > HBr > HI > HF",
+        "correctAnswer": "B) HI > HBr > HCl > HF",
+        "isCorrect": false
+      },
+      {
+        "question": "Acetic acid (CH3COOH) is classified as:",
+        "userAnswer": "B) A weak acid",
+        "correctAnswer": "B) A weak acid",
+        "isCorrect": true
+      },
+      {
+        "question": "The most acidic hydrohalic acid is:",
+        "userAnswer": "B) HCl",
+        "correctAnswer": "D) HI",
+        "isCorrect": false
+      },
+      {
+        "question": "The boiling point of sodium chloride is approximately:",
+        "userAnswer": "B) 800°C",
+        "correctAnswer": "C) 1464°C",
+        "isCorrect": false
+      },
+      {
+        "question": "In the presence of HF, HCO3⁻ acts as:",
+        "userAnswer": "B) A base",
+        "correctAnswer": "B) A base",
+        "isCorrect": true
+      },
+      {
+        "question": "Which property is NOT typically associated with salts?",
+        "userAnswer": "D) Covalent bonding exclusively",
+        "correctAnswer": "D) Covalent bonding exclusively",
+        "isCorrect": true
+      },
+      {
+        "question": "The hydrolysis of ammonium ion (NH4⁺) produces:",
+        "userAnswer": "A) OH⁻ ions",
+        "correctAnswer": "B) H⁺ ions",
+        "isCorrect": false
+      },
+      {
+        "question": "Hydrolysis of salt is the reverse of:",
+        "userAnswer": "C) A neutralization reaction",
+        "correctAnswer": "C) A neutralization reaction",
+        "isCorrect": true
+      }
+    ]
   }
 ]
